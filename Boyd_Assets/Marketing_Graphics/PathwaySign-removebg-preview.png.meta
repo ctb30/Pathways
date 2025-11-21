@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 45ecc76405b34c742b359fadb0c28d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6682793392663367046
+    second: PathwaySign-removebg-preview_0
+  - first:
+      213: 4877028942370927809
+    second: PathwaySign-removebg-preview_1
+  - first:
+      213: -5051789366908857866
+    second: PathwaySign-removebg-preview_2
+  - first:
+      213: -3144806021144267253
+    second: PathwaySign-removebg-preview_3
+  - first:
+      213: -2971123470672680794
+    second: PathwaySign-removebg-preview_4
+  - first:
+      213: -341087677481131064
+    second: PathwaySign-removebg-preview_5
+  - first:
+      213: -5539583921497565728
+    second: PathwaySign-removebg-preview_6
+  - first:
+      213: -6442143197540106744
+    second: PathwaySign-removebg-preview_7
+  - first:
+      213: -3940946674411298755
+    second: PathwaySign-removebg-preview_8
+  - first:
+      213: -3027760097365315994
+    second: PathwaySign-removebg-preview_9
+  - first:
+      213: 3895677824479434115
+    second: PathwaySign-removebg-preview_10
+  - first:
+      213: 2245406991360788426
+    second: PathwaySign-removebg-preview_11
+  - first:
+      213: -320167241074691079
+    second: PathwaySign-removebg-preview_12
+  - first:
+      213: 7813483615990875015
+    second: PathwaySign-removebg-preview_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 75
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d07050f2d0ebc50800000000000000
+      internalID: 6682793392663367046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 34
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47155cbffaea340800000000000000
+      internalID: 4877028942370927809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 34
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15d49165074e9b0800000000000000
+      internalID: -5051789366908857866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 34
+        width: 70
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06bf2ee5976b54d0800000000000000
+      internalID: -3144806021144267253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 34
+        width: 69
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8aab2f1f274c6d0800000000000000
+      internalID: -2971123470672680794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 34
+        width: 74
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c369728096344bf0800000000000000
+      internalID: -341087677481131064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 34
+        width: 73
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51cabf5c17f13b0800000000000000
+      internalID: -5539583921497565728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 34
+        width: 84
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3c6ec4e8e896a0800000000000000
+      internalID: -6442143197540106744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 34
+        width: 77
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3025f031e1fe49c0800000000000000
+      internalID: -3940946674411298755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 34
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e2073bb3c3bf5d0800000000000000
+      internalID: -3027760097365315994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 34
+        width: 114
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3859677575a301630800000000000000
+      internalID: 3895677824479434115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 34
+        width: 84
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70d3013c9492f10800000000000000
+      internalID: 2245406991360788426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 34
+        width: 83
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b60f27998e8bf0800000000000000
+      internalID: -320167241074691079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathwaySign-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 31
+        width: 77
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783887d73f11f6c60800000000000000
+      internalID: 7813483615990875015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PathwaySign-removebg-preview_0: 6682793392663367046
+      PathwaySign-removebg-preview_1: 4877028942370927809
+      PathwaySign-removebg-preview_10: 3895677824479434115
+      PathwaySign-removebg-preview_11: 2245406991360788426
+      PathwaySign-removebg-preview_12: -320167241074691079
+      PathwaySign-removebg-preview_13: 7813483615990875015
+      PathwaySign-removebg-preview_2: -5051789366908857866
+      PathwaySign-removebg-preview_3: -3144806021144267253
+      PathwaySign-removebg-preview_4: -2971123470672680794
+      PathwaySign-removebg-preview_5: -341087677481131064
+      PathwaySign-removebg-preview_6: -5539583921497565728
+      PathwaySign-removebg-preview_7: -6442143197540106744
+      PathwaySign-removebg-preview_8: -3940946674411298755
+      PathwaySign-removebg-preview_9: -3027760097365315994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
