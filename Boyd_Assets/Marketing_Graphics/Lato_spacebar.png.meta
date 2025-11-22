@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 1d92320a1327a174dbce71b7fe028b0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 370649529613549162
+    second: Lato_spacebar_0
+  - first:
+      213: 4988337859223627932
+    second: Lato_spacebar_1
+  - first:
+      213: 8838406012442503359
+    second: Lato_spacebar_2
+  - first:
+      213: -4745782359862530966
+    second: Lato_spacebar_3
+  - first:
+      213: 2625998711800765192
+    second: Lato_spacebar_4
+  - first:
+      213: 1445506275138653419
+    second: Lato_spacebar_5
+  - first:
+      213: 1154561793963214956
+    second: Lato_spacebar_6
+  - first:
+      213: 5845894305202690731
+    second: Lato_spacebar_7
+  - first:
+      213: -2868808140952768935
+    second: Lato_spacebar_8
+  - first:
+      213: 7756976685842432830
+    second: Lato_spacebar_9
+  - first:
+      213: -3966343707924386411
+    second: Lato_spacebar_10
+  - first:
+      213: 334126000401558535
+    second: Lato_spacebar_11
+  - first:
+      213: 1852138308658101606
+    second: Lato_spacebar_12
+  - first:
+      213: 6817730060378086865
+    second: Lato_spacebar_13
+  - first:
+      213: -1807685463900309685
+    second: Lato_spacebar_14
+  - first:
+      213: -5469121602254258313
+    second: Lato_spacebar_15
+  - first:
+      213: -1765393718435617429
+    second: Lato_spacebar_16
+  - first:
+      213: -1355323022575709813
+    second: Lato_spacebar_17
+  - first:
+      213: 1974232451093735393
+    second: Lato_spacebar_18
+  - first:
+      213: -8693616784585959167
+    second: Lato_spacebar_19
+  - first:
+      213: 7558914641906024284
+    second: Lato_spacebar_20
+  - first:
+      213: -7074858003567658647
+    second: Lato_spacebar_21
+  - first:
+      213: 2676050192332511992
+    second: Lato_spacebar_22
+  - first:
+      213: 7023796633349642972
+    second: Lato_spacebar_23
+  - first:
+      213: 4677617146227186473
+    second: Lato_spacebar_24
+  - first:
+      213: 684293439326244456
+    second: Lato_spacebar_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lato_spacebar_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef7cc88cfc42500800000000000000
+      internalID: 370649529613549162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 35
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9828a68ad22a3540800000000000000
+      internalID: 4988337859223627932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 37
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8ef40c07358aa70800000000000000
+      internalID: 8838406012442503359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 38
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c24138618932eb0800000000000000
+      internalID: -4745782359862530966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 38
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b948d4aeb617420800000000000000
+      internalID: 2625998711800765192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 38
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccc327c487f0410800000000000000
+      internalID: 1445506275138653419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684a60a5d3d50010800000000000000
+      internalID: 1154561793963214956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad510d5e9c02150800000000000000
+      internalID: 5845894305202690731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ee2c50232ff28d0800000000000000
+      internalID: -2868808140952768935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3300a2923156ab60800000000000000
+      internalID: 7756976685842432830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59daf088967b4f8c0800000000000000
+      internalID: -3966343707924386411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c282cb3dd03a400800000000000000
+      internalID: 334126000401558535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 38
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d757a8afd14b910800000000000000
+      internalID: 1852138308658101606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 38
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd96573e517d9e50800000000000000
+      internalID: 6817730060378086865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b59ae5afc9e6e0800000000000000
+      internalID: -1807685463900309685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 38
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f383021e6c914b0800000000000000
+      internalID: -5469121602254258313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 39
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6560fb34cf0087e0800000000000000
+      internalID: -1765393718435617429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 38
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81577b44ece03de0800000000000000
+      internalID: -1355323022575709813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7ad7f44f1e56b10800000000000000
+      internalID: 1974232451093735393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 38
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109516d58911a5780800000000000000
+      internalID: -8693616784585959167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 39
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fbe4661d8a6e860800000000000000
+      internalID: 7558914641906024284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 39
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693505412e01dd90800000000000000
+      internalID: -7074858003567658647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 39
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa581bb87d332520800000000000000
+      internalID: 2676050192332511992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 38
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad36903d9897160800000000000000
+      internalID: 7023796633349642972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_24
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 38
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bd52ce20c3ae040800000000000000
+      internalID: 4677617146227186473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lato_spacebar_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 37
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecb2de1491f7900800000000000000
+      internalID: 684293439326244456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lato_spacebar_0: 370649529613549162
+      Lato_spacebar_1: 4988337859223627932
+      Lato_spacebar_10: -3966343707924386411
+      Lato_spacebar_11: 334126000401558535
+      Lato_spacebar_12: 1852138308658101606
+      Lato_spacebar_13: 6817730060378086865
+      Lato_spacebar_14: -1807685463900309685
+      Lato_spacebar_15: -5469121602254258313
+      Lato_spacebar_16: -1765393718435617429
+      Lato_spacebar_17: -1355323022575709813
+      Lato_spacebar_18: 1974232451093735393
+      Lato_spacebar_19: -8693616784585959167
+      Lato_spacebar_2: 8838406012442503359
+      Lato_spacebar_20: 7558914641906024284
+      Lato_spacebar_21: -7074858003567658647
+      Lato_spacebar_22: 2676050192332511992
+      Lato_spacebar_23: 7023796633349642972
+      Lato_spacebar_24: 4677617146227186473
+      Lato_spacebar_25: 684293439326244456
+      Lato_spacebar_3: -4745782359862530966
+      Lato_spacebar_4: 2625998711800765192
+      Lato_spacebar_5: 1445506275138653419
+      Lato_spacebar_6: 1154561793963214956
+      Lato_spacebar_7: 5845894305202690731
+      Lato_spacebar_8: -2868808140952768935
+      Lato_spacebar_9: 7756976685842432830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

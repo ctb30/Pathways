@@ -1,0 +1,5226 @@
+fileFormatVersion: 2
+guid: 7c1dd8c3aa9a9da4ba83ead35bd82b4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -709949932660820445
+    second: Kim_Talk-removebg-preview_0
+  - first:
+      213: 1722107752144458780
+    second: Kim_Talk-removebg-preview_1
+  - first:
+      213: -3391026607001926021
+    second: Kim_Talk-removebg-preview_2
+  - first:
+      213: 479146110229917167
+    second: Kim_Talk-removebg-preview_3
+  - first:
+      213: -1907346052581920896
+    second: Kim_Talk-removebg-preview_4
+  - first:
+      213: -9021949315746709360
+    second: Kim_Talk-removebg-preview_5
+  - first:
+      213: 2475146949402068878
+    second: Kim_Talk-removebg-preview_6
+  - first:
+      213: 8929559110117155045
+    second: Kim_Talk-removebg-preview_7
+  - first:
+      213: -8915277608452394162
+    second: Kim_Talk-removebg-preview_8
+  - first:
+      213: 6244400992716733703
+    second: Kim_Talk-removebg-preview_9
+  - first:
+      213: 2419159280332850123
+    second: Kim_Talk-removebg-preview_10
+  - first:
+      213: -6567148884863090591
+    second: Kim_Talk-removebg-preview_11
+  - first:
+      213: -1978399904118751876
+    second: Kim_Talk-removebg-preview_12
+  - first:
+      213: -3375930077340614076
+    second: Kim_Talk-removebg-preview_13
+  - first:
+      213: 1823273575993572468
+    second: Kim_Talk-removebg-preview_14
+  - first:
+      213: -7051123245019457111
+    second: Kim_Talk-removebg-preview_15
+  - first:
+      213: -8750351262750212727
+    second: Kim_Talk-removebg-preview_16
+  - first:
+      213: 426359681427795585
+    second: Kim_Talk-removebg-preview_17
+  - first:
+      213: -6465338759333862152
+    second: Kim_Talk-removebg-preview_18
+  - first:
+      213: 2929920212671405145
+    second: Kim_Talk-removebg-preview_19
+  - first:
+      213: 7345477872128475513
+    second: Kim_Talk-removebg-preview_20
+  - first:
+      213: -5049874772578506775
+    second: Kim_Talk-removebg-preview_21
+  - first:
+      213: -8759049631797565035
+    second: Kim_Talk-removebg-preview_22
+  - first:
+      213: -7431206238981339384
+    second: Kim_Talk-removebg-preview_23
+  - first:
+      213: 4827495579636117685
+    second: Kim_Talk-removebg-preview_24
+  - first:
+      213: -3597781240516201434
+    second: Kim_Talk-removebg-preview_25
+  - first:
+      213: 9083208592779908543
+    second: Kim_Talk-removebg-preview_26
+  - first:
+      213: 6948282999862044902
+    second: Kim_Talk-removebg-preview_27
+  - first:
+      213: 1888387834842658829
+    second: Kim_Talk-removebg-preview_28
+  - first:
+      213: 2229979352362717066
+    second: Kim_Talk-removebg-preview_29
+  - first:
+      213: 345454966015641036
+    second: Kim_Talk-removebg-preview_30
+  - first:
+      213: -120081442910430092
+    second: Kim_Talk-removebg-preview_31
+  - first:
+      213: -2260189322130060904
+    second: Kim_Talk-removebg-preview_32
+  - first:
+      213: 4480454480247644275
+    second: Kim_Talk-removebg-preview_33
+  - first:
+      213: -4320511647265954279
+    second: Kim_Talk-removebg-preview_34
+  - first:
+      213: 1662251961603659124
+    second: Kim_Talk-removebg-preview_35
+  - first:
+      213: 5938044425719182446
+    second: Kim_Talk-removebg-preview_36
+  - first:
+      213: -2558431431271909788
+    second: Kim_Talk-removebg-preview_37
+  - first:
+      213: -4670844497190191139
+    second: Kim_Talk-removebg-preview_38
+  - first:
+      213: -3987010628590854984
+    second: Kim_Talk-removebg-preview_39
+  - first:
+      213: -5389618043812401597
+    second: Kim_Talk-removebg-preview_40
+  - first:
+      213: -8852992597421853979
+    second: Kim_Talk-removebg-preview_41
+  - first:
+      213: -7888660360201507252
+    second: Kim_Talk-removebg-preview_42
+  - first:
+      213: 8399481067182226032
+    second: Kim_Talk-removebg-preview_43
+  - first:
+      213: 4939171324495632815
+    second: Kim_Talk-removebg-preview_44
+  - first:
+      213: -4522988403298902827
+    second: Kim_Talk-removebg-preview_45
+  - first:
+      213: 3783340714552752822
+    second: Kim_Talk-removebg-preview_46
+  - first:
+      213: 6849906370179491495
+    second: Kim_Talk-removebg-preview_47
+  - first:
+      213: 261107191384828427
+    second: Kim_Talk-removebg-preview_48
+  - first:
+      213: -5778571236332097394
+    second: Kim_Talk-removebg-preview_49
+  - first:
+      213: 4468292935350926891
+    second: Kim_Talk-removebg-preview_50
+  - first:
+      213: 4015286959459386091
+    second: Kim_Talk-removebg-preview_51
+  - first:
+      213: -3713138554466674373
+    second: Kim_Talk-removebg-preview_52
+  - first:
+      213: 2704712249377985054
+    second: Kim_Talk-removebg-preview_53
+  - first:
+      213: 4211937480038098305
+    second: Kim_Talk-removebg-preview_54
+  - first:
+      213: 1708119455453542462
+    second: Kim_Talk-removebg-preview_55
+  - first:
+      213: 3817065130102414180
+    second: Kim_Talk-removebg-preview_56
+  - first:
+      213: -6837670329959259298
+    second: Kim_Talk-removebg-preview_57
+  - first:
+      213: 6633337051996352206
+    second: Kim_Talk-removebg-preview_58
+  - first:
+      213: -3326828937424931238
+    second: Kim_Talk-removebg-preview_59
+  - first:
+      213: 6753439510424313972
+    second: Kim_Talk-removebg-preview_60
+  - first:
+      213: -2639013027830522291
+    second: Kim_Talk-removebg-preview_61
+  - first:
+      213: 5080368169413794638
+    second: Kim_Talk-removebg-preview_62
+  - first:
+      213: 392645840543584765
+    second: Kim_Talk-removebg-preview_63
+  - first:
+      213: 4793427385429750927
+    second: Kim_Talk-removebg-preview_64
+  - first:
+      213: -5395942504666374130
+    second: Kim_Talk-removebg-preview_65
+  - first:
+      213: -4905333597119579871
+    second: Kim_Talk-removebg-preview_66
+  - first:
+      213: 6328405241485777428
+    second: Kim_Talk-removebg-preview_67
+  - first:
+      213: -2330303912767282855
+    second: Kim_Talk-removebg-preview_68
+  - first:
+      213: -8661020263574397458
+    second: Kim_Talk-removebg-preview_69
+  - first:
+      213: 7984244962603407903
+    second: Kim_Talk-removebg-preview_70
+  - first:
+      213: -8229817696806028957
+    second: Kim_Talk-removebg-preview_71
+  - first:
+      213: -7456169045849730443
+    second: Kim_Talk-removebg-preview_72
+  - first:
+      213: 1041605918583470836
+    second: Kim_Talk-removebg-preview_73
+  - first:
+      213: -8619531361676586130
+    second: Kim_Talk-removebg-preview_74
+  - first:
+      213: -1696358297856306383
+    second: Kim_Talk-removebg-preview_75
+  - first:
+      213: -6351210151337291077
+    second: Kim_Talk-removebg-preview_76
+  - first:
+      213: -5468568717310954334
+    second: Kim_Talk-removebg-preview_77
+  - first:
+      213: 4969130212689536033
+    second: Kim_Talk-removebg-preview_78
+  - first:
+      213: -1918335412656991233
+    second: Kim_Talk-removebg-preview_79
+  - first:
+      213: 3181485200518172479
+    second: Kim_Talk-removebg-preview_80
+  - first:
+      213: 5766080745528302844
+    second: Kim_Talk-removebg-preview_81
+  - first:
+      213: 286393285387005779
+    second: Kim_Talk-removebg-preview_82
+  - first:
+      213: -8081274430618429068
+    second: Kim_Talk-removebg-preview_83
+  - first:
+      213: 6292171489118209615
+    second: Kim_Talk-removebg-preview_84
+  - first:
+      213: -6806932100872850450
+    second: Kim_Talk-removebg-preview_85
+  - first:
+      213: 6437107063716477845
+    second: Kim_Talk-removebg-preview_86
+  - first:
+      213: 5856419746577104108
+    second: Kim_Talk-removebg-preview_87
+  - first:
+      213: 3931140590442018273
+    second: Kim_Talk-removebg-preview_88
+  - first:
+      213: -6389750704367756395
+    second: Kim_Talk-removebg-preview_89
+  - first:
+      213: -4224615434167257376
+    second: Kim_Talk-removebg-preview_90
+  - first:
+      213: -6370341537820609398
+    second: Kim_Talk-removebg-preview_91
+  - first:
+      213: 3439611288872475936
+    second: Kim_Talk-removebg-preview_92
+  - first:
+      213: 2652534493403988275
+    second: Kim_Talk-removebg-preview_93
+  - first:
+      213: -7579703139805729860
+    second: Kim_Talk-removebg-preview_94
+  - first:
+      213: -145265073668055862
+    second: Kim_Talk-removebg-preview_95
+  - first:
+      213: -5022234343668818212
+    second: Kim_Talk-removebg-preview_96
+  - first:
+      213: -5680740050906730648
+    second: Kim_Talk-removebg-preview_97
+  - first:
+      213: -7098826284935660861
+    second: Kim_Talk-removebg-preview_98
+  - first:
+      213: -3456688841418845281
+    second: Kim_Talk-removebg-preview_99
+  - first:
+      213: 4236363066521254332
+    second: Kim_Talk-removebg-preview_100
+  - first:
+      213: -8599460432140243343
+    second: Kim_Talk-removebg-preview_101
+  - first:
+      213: 173155559765710903
+    second: Kim_Talk-removebg-preview_102
+  - first:
+      213: -8188431659387475980
+    second: Kim_Talk-removebg-preview_103
+  - first:
+      213: -4889026521923784859
+    second: Kim_Talk-removebg-preview_104
+  - first:
+      213: 2820619276930634743
+    second: Kim_Talk-removebg-preview_105
+  - first:
+      213: 8411359903220558056
+    second: Kim_Talk-removebg-preview_106
+  - first:
+      213: 3431219081898412579
+    second: Kim_Talk-removebg-preview_107
+  - first:
+      213: -5226608109152854968
+    second: Kim_Talk-removebg-preview_108
+  - first:
+      213: 1585708750784033069
+    second: Kim_Talk-removebg-preview_109
+  - first:
+      213: 3832741849132005544
+    second: Kim_Talk-removebg-preview_110
+  - first:
+      213: -4464726671664318591
+    second: Kim_Talk-removebg-preview_111
+  - first:
+      213: 5012876806731728878
+    second: Kim_Talk-removebg-preview_112
+  - first:
+      213: -6156681566346273269
+    second: Kim_Talk-removebg-preview_113
+  - first:
+      213: -5920608221470562231
+    second: Kim_Talk-removebg-preview_114
+  - first:
+      213: -6370896369638256557
+    second: Kim_Talk-removebg-preview_115
+  - first:
+      213: 7462010415403163622
+    second: Kim_Talk-removebg-preview_116
+  - first:
+      213: 3472828421959195935
+    second: Kim_Talk-removebg-preview_117
+  - first:
+      213: -5974737576166522215
+    second: Kim_Talk-removebg-preview_118
+  - first:
+      213: -6796030404977717445
+    second: Kim_Talk-removebg-preview_119
+  - first:
+      213: -4062437574042092787
+    second: Kim_Talk-removebg-preview_120
+  - first:
+      213: -8130511445180901038
+    second: Kim_Talk-removebg-preview_121
+  - first:
+      213: 4494484887462114483
+    second: Kim_Talk-removebg-preview_122
+  - first:
+      213: -7602241793845639486
+    second: Kim_Talk-removebg-preview_123
+  - first:
+      213: 3848112015371820837
+    second: Kim_Talk-removebg-preview_124
+  - first:
+      213: 5485089218011444367
+    second: Kim_Talk-removebg-preview_125
+  - first:
+      213: -6125679253019564712
+    second: Kim_Talk-removebg-preview_126
+  - first:
+      213: 4872765027579707473
+    second: Kim_Talk-removebg-preview_127
+  - first:
+      213: 2122358373424880391
+    second: Kim_Talk-removebg-preview_128
+  - first:
+      213: 7631061485424169909
+    second: Kim_Talk-removebg-preview_129
+  - first:
+      213: 7895270941545681743
+    second: Kim_Talk-removebg-preview_130
+  - first:
+      213: -696839030401580055
+    second: Kim_Talk-removebg-preview_131
+  - first:
+      213: -7146112644723310379
+    second: Kim_Talk-removebg-preview_132
+  - first:
+      213: -713707992696430749
+    second: Kim_Talk-removebg-preview_133
+  - first:
+      213: -4285155144135903612
+    second: Kim_Talk-removebg-preview_134
+  - first:
+      213: -1462466421705175337
+    second: Kim_Talk-removebg-preview_135
+  - first:
+      213: -4026721600127917153
+    second: Kim_Talk-removebg-preview_136
+  - first:
+      213: 7050035515786545403
+    second: Kim_Talk-removebg-preview_137
+  - first:
+      213: -7935311371231041039
+    second: Kim_Talk-removebg-preview_138
+  - first:
+      213: 3040674687629575066
+    second: Kim_Talk-removebg-preview_139
+  - first:
+      213: 1396250892847848175
+    second: Kim_Talk-removebg-preview_140
+  - first:
+      213: 3604356415231437340
+    second: Kim_Talk-removebg-preview_141
+  - first:
+      213: -1997935817971385105
+    second: Kim_Talk-removebg-preview_142
+  - first:
+      213: -4799948679781694487
+    second: Kim_Talk-removebg-preview_143
+  - first:
+      213: -3353097315690573667
+    second: Kim_Talk-removebg-preview_144
+  - first:
+      213: 2226746925739142447
+    second: Kim_Talk-removebg-preview_145
+  - first:
+      213: -8972730528482327957
+    second: Kim_Talk-removebg-preview_146
+  - first:
+      213: 4728008246209071032
+    second: Kim_Talk-removebg-preview_147
+  - first:
+      213: 1612460002336542265
+    second: Kim_Talk-removebg-preview_148
+  - first:
+      213: 9032921658869277225
+    second: Kim_Talk-removebg-preview_149
+  - first:
+      213: 7996176464301091717
+    second: Kim_Talk-removebg-preview_150
+  - first:
+      213: -3805350362160287587
+    second: Kim_Talk-removebg-preview_151
+  - first:
+      213: 132396550445742700
+    second: Kim_Talk-removebg-preview_152
+  - first:
+      213: -8742756770652870843
+    second: Kim_Talk-removebg-preview_153
+  - first:
+      213: 5975547066849976949
+    second: Kim_Talk-removebg-preview_154
+  - first:
+      213: 1580364742491892855
+    second: Kim_Talk-removebg-preview_155
+  - first:
+      213: 660263484472222520
+    second: Kim_Talk-removebg-preview_156
+  - first:
+      213: 1477672974998666904
+    second: Kim_Talk-removebg-preview_157
+  - first:
+      213: -1606724909994473953
+    second: Kim_Talk-removebg-preview_158
+  - first:
+      213: 727391002811537784
+    second: Kim_Talk-removebg-preview_159
+  - first:
+      213: -4916774300890484514
+    second: Kim_Talk-removebg-preview_160
+  - first:
+      213: 5875485866322963513
+    second: Kim_Talk-removebg-preview_161
+  - first:
+      213: -548408807187143026
+    second: Kim_Talk-removebg-preview_162
+  - first:
+      213: -2789140634418142830
+    second: Kim_Talk-removebg-preview_163
+  - first:
+      213: 9054115785687301885
+    second: Kim_Talk-removebg-preview_164
+  - first:
+      213: -5632159456767393535
+    second: Kim_Talk-removebg-preview_165
+  - first:
+      213: 4085971695756014600
+    second: Kim_Talk-removebg-preview_166
+  - first:
+      213: 5740432109738991236
+    second: Kim_Talk-removebg-preview_167
+  - first:
+      213: 1578196582842264550
+    second: Kim_Talk-removebg-preview_168
+  - first:
+      213: 5998386877325541330
+    second: Kim_Talk-removebg-preview_169
+  - first:
+      213: 6121689169699466793
+    second: Kim_Talk-removebg-preview_170
+  - first:
+      213: -4467676636792202717
+    second: Kim_Talk-removebg-preview_171
+  - first:
+      213: -1496422049463748586
+    second: Kim_Talk-removebg-preview_172
+  - first:
+      213: -8792479080266483516
+    second: Kim_Talk-removebg-preview_173
+  - first:
+      213: 7999043140744063011
+    second: Kim_Talk-removebg-preview_174
+  - first:
+      213: 8640313614623230242
+    second: Kim_Talk-removebg-preview_175
+  - first:
+      213: 1236734421412372143
+    second: Kim_Talk-removebg-preview_176
+  - first:
+      213: 5761826786976781113
+    second: Kim_Talk-removebg-preview_177
+  - first:
+      213: -8686449705313477996
+    second: Kim_Talk-removebg-preview_178
+  - first:
+      213: 5511231331747706737
+    second: Kim_Talk-removebg-preview_179
+  - first:
+      213: 2965758297281351703
+    second: Kim_Talk-removebg-preview_180
+  - first:
+      213: 4063261428015949644
+    second: Kim_Talk-removebg-preview_181
+  - first:
+      213: 7032321919074407266
+    second: Kim_Talk-removebg-preview_182
+  - first:
+      213: -2451844181337748259
+    second: Kim_Talk-removebg-preview_183
+  - first:
+      213: -6180545944548012073
+    second: Kim_Talk-removebg-preview_184
+  - first:
+      213: 4614435184705905207
+    second: Kim_Talk-removebg-preview_185
+  - first:
+      213: 6845363841014219632
+    second: Kim_Talk-removebg-preview_186
+  - first:
+      213: -4063987485240271350
+    second: Kim_Talk-removebg-preview_187
+  - first:
+      213: -1568328576939259665
+    second: Kim_Talk-removebg-preview_188
+  - first:
+      213: -2376482633203070268
+    second: Kim_Talk-removebg-preview_189
+  - first:
+      213: -4392396004148442863
+    second: Kim_Talk-removebg-preview_190
+  - first:
+      213: 917804268781697593
+    second: Kim_Talk-removebg-preview_191
+  - first:
+      213: -4182849529086451199
+    second: Kim_Talk-removebg-preview_192
+  - first:
+      213: -1512638940826693950
+    second: Kim_Talk-removebg-preview_193
+  - first:
+      213: 2980850417151633570
+    second: Kim_Talk-removebg-preview_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 494
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32670773c40c526f0800000000000000
+      internalID: -709949932660820445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 494
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14548f50e726e710800000000000000
+      internalID: 1722107752144458780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 494
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7680c17447a0f0d0800000000000000
+      internalID: -3391026607001926021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 494
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda3cf39d446a600800000000000000
+      internalID: 479146110229917167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 488
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6c18eedeb785e0800000000000000
+      internalID: -1907346052581920896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 494
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c65dc5e89bc280800000000000000
+      internalID: -9021949315746709360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 494
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87800e590d795220800000000000000
+      internalID: 2475146949402068878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 494
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e26723ba2ceb70800000000000000
+      internalID: 8929559110117155045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4373321042964480800000000000000
+      internalID: -8915277608452394162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 494
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3afd5e9198a650800000000000000
+      internalID: 6244400992716733703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 494
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc344575c84929120800000000000000
+      internalID: 2419159280332850123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 494
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16002aa22ecccd4a0800000000000000
+      internalID: -6567148884863090591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db55be4cf4b84e0800000000000000
+      internalID: -1978399904118751876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 494
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4424e892b794621d0800000000000000
+      internalID: -3375930077340614076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf37148a19d4910800000000000000
+      internalID: 1823273575993572468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 494
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a99d1164c0652e90800000000000000
+      internalID: -7051123245019457111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 488
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df1eb43e1809680800000000000000
+      internalID: -8750351262750212727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 490
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6d0e0fdbbae500800000000000000
+      internalID: 426359681427795585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 494
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4275937a08646a0800000000000000
+      internalID: -6465338759333862152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 458
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1488f8ea29a820800000000000000
+      internalID: 2929920212671405145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 452
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c5b9e43160f560800000000000000
+      internalID: 7345477872128475513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 458
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7604456ad3be9b0800000000000000
+      internalID: -5049874772578506775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 458
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599a0be64ca917680800000000000000
+      internalID: -8759049631797565035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c9d04c4d0fd890800000000000000
+      internalID: -7431206238981339384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 458
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0bafa07a5bef240800000000000000
+      internalID: 4827495579636117685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 458
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624b77b060d121ec0800000000000000
+      internalID: -3597781240516201434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 458
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb51c69171a0e0e70800000000000000
+      internalID: 9083208592779908543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 458
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8a9a523924d6060800000000000000
+      internalID: 6948282999862044902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 458
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0837fd0bb6e43a10800000000000000
+      internalID: 1888387834842658829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 458
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0902f76a72fe10800000000000000
+      internalID: 2229979352362717066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 458
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c147167d4bc400800000000000000
+      internalID: 345454966015641036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 458
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c153b5092655ef0800000000000000
+      internalID: -120081442910430092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 458
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8998e4959c132a0e0800000000000000
+      internalID: -2260189322130060904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 458
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e77f7c95cd2e30800000000000000
+      internalID: 4480454480247644275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 116
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91666c04c857a04c0800000000000000
+      internalID: -4320511647265954279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 420
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47515922a51811710800000000000000
+      internalID: 1662251961603659124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 420
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64fa7fa1fb286250800000000000000
+      internalID: 5938044425719182446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 420
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f7dc1b20ae7cd0800000000000000
+      internalID: -2558431431271909788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 420
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff3ef4da3dd2fb0800000000000000
+      internalID: -4670844497190191139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 420
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc922715fa4ba8c0800000000000000
+      internalID: -3987010628590854984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea68fc1fa3435b0800000000000000
+      internalID: -5389618043812401597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 420
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2f187432ad32580800000000000000
+      internalID: -8852992597421853979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 420
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eeb74c239d58290800000000000000
+      internalID: -7888660360201507252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 420
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af30b3783f09470800000000000000
+      internalID: 8399481067182226032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99b5996267b8440800000000000000
+      internalID: 4939171324495632815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 384
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc5822d20e1b31c0800000000000000
+      internalID: -4522988403298902827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 378
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba703bb550218430800000000000000
+      internalID: 3783340714552752822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6eb332d81cf0f50800000000000000
+      internalID: 6849906370179491495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aeace6b93af9300800000000000000
+      internalID: 261107191384828427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 384
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b225a3146ecfa0800000000000000
+      internalID: -5778571236332097394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ebafb20c0920e30800000000000000
+      internalID: 4468292935350926891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 384
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c5d9373a29b730800000000000000
+      internalID: 4015286959459386091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39d4336828487cc0800000000000000
+      internalID: -3713138554466674373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 384
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1292dbe571198520800000000000000
+      internalID: 2704712249377985054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18523d182dec37a30800000000000000
+      internalID: 4211937480038098305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 384
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38fd30489574b710800000000000000
+      internalID: 1708119455453542462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bd84c1380f8f430800000000000000
+      internalID: 3817065130102414180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 384
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53ec8bff07bb11a0800000000000000
+      internalID: -6837670329959259298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 384
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceeda367e85e0c50800000000000000
+      internalID: 6633337051996352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 384
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56fb4c25bab4d1d0800000000000000
+      internalID: -3326828937424931238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470ede6147909bd50800000000000000
+      internalID: 6753439510424313972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 347
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e988e12a7506bd0800000000000000
+      internalID: -2639013027830522291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 347
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b5c12eee7118640800000000000000
+      internalID: 5080368169413794638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 347
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19228cf45f27500800000000000000
+      internalID: 392645840543584765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 364
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847b257fcca58240800000000000000
+      internalID: 4793427385429750927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 347
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ede481e2cd15b0800000000000000
+      internalID: -5395942504666374130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 347
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129f5ee3511ccebb0800000000000000
+      internalID: -4905333597119579871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 347
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ada7da90303d750800000000000000
+      internalID: 6328405241485777428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 364
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951adc410f819afd0800000000000000
+      internalID: -2330303912767282855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 347
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed103555ffddc780800000000000000
+      internalID: -8661020263574397458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 347
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9dabbd7cbdce60800000000000000
+      internalID: 7984244962603407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 347
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36937af7860d9cd80800000000000000
+      internalID: -8229817696806028957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5721ddcd1cd568890800000000000000
+      internalID: -7456169045849730443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 347
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fabc157017847e00800000000000000
+      internalID: 1041605918583470836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 347
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e639de015e5416880800000000000000
+      internalID: -8619531361676586130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 347
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1331d74ad135578e0800000000000000
+      internalID: -1696358297856306383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 347
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb29fab7408fbd7a0800000000000000
+      internalID: -6351210151337291077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 347
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4fddea9bdbb14b0800000000000000
+      internalID: -5468568717310954334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 340
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246502d995e5f440800000000000000
+      internalID: 4969130212689536033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff317802b14b065e0800000000000000
+      internalID: -1918335412656991233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4c030fe7e62c20800000000000000
+      internalID: 3181485200518172479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 310
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc1f6753eb350050800000000000000
+      internalID: 5766080745528302844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 311
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fac89fc2979f300800000000000000
+      internalID: 286393285387005779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 311
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799a86c8bb89df80800000000000000
+      internalID: -8081274430618429068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 311
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f464bbac1a8425750800000000000000
+      internalID: 6292171489118209615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 311
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee33545a15be881a0800000000000000
+      internalID: -6806932100872850450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 304
+        width: 109
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7af9e4c2355950800000000000000
+      internalID: 6437107063716477845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 311
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecbf4a1bbe264150800000000000000
+      internalID: 5856419746577104108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57a67f9873e8630800000000000000
+      internalID: 3931140590442018273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9bd6b69b0357a0800000000000000
+      internalID: -6389750704367756395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 311
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6f3d545a62f55c0800000000000000
+      internalID: -4224615434167257376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 306
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8479447f100897a0800000000000000
+      internalID: -6370341537820609398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 316
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ddaae4e34fbbf20800000000000000
+      internalID: 3439611288872475936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 304
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c0d96112bfc420800000000000000
+      internalID: 2652534493403988275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 311
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb67f0472c7fc690800000000000000
+      internalID: -7579703139805729860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc9eb56f2aebfdf0800000000000000
+      internalID: -145265073668055862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 273
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5ade29707d4ab0800000000000000
+      internalID: -5022234343668818212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fae548505f921b0800000000000000
+      internalID: -5680740050906730648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 273
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3434ea17eb7d90800000000000000
+      internalID: -7098826284935660861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 273
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935c2420df5700d0800000000000000
+      internalID: -3456688841418845281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9759783c59aca30800000000000000
+      internalID: 4236363066521254332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee0428c4498a880800000000000000
+      internalID: -8599460432140243343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 273
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73818be601c276200800000000000000
+      internalID: 173155559765710903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 273
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7a5aa3ac8dc5e80800000000000000
+      internalID: -8188431659387475980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 267
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe44f0840b62cb0800000000000000
+      internalID: -4889026521923784859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 267
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d110c94ad42720800000000000000
+      internalID: 2820619276930634743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8ec6544472bb470800000000000000
+      internalID: 8411359903220558056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac81b53932e9f20800000000000000
+      internalID: 3431219081898412579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 273
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c94c1dd9b5777b0800000000000000
+      internalID: -5226608109152854968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 236
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f5b715b1910610800000000000000
+      internalID: 1585708750784033069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87941b762a03530800000000000000
+      internalID: 3832741849132005544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 236
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877c3c4fba1a02c0800000000000000
+      internalID: -4464726671664318591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 236
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee70a0875e0519540800000000000000
+      internalID: 5012876806731728878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 236
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e1cb22cb21f8aa0800000000000000
+      internalID: -6156681566346273269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 236
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486df8f036c5dda0800000000000000
+      internalID: -5920608221470562231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 236
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d2ea91870697a0800000000000000
+      internalID: -6370896369638256557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 230
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efde58ffe26e8760800000000000000
+      internalID: 7462010415403163622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 236
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d12c8cc07f13030800000000000000
+      internalID: 3472828421959195935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 236
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928a6a74d7751da0800000000000000
+      internalID: -5974737576166522215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 230
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8c848a56afa1a0800000000000000
+      internalID: -6796030404977717445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b7505dc825f97c0800000000000000
+      internalID: -4062437574042092787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2599ebbfaee9a2f80800000000000000
+      internalID: -8130511445180901038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 199
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b47a8d313e9f5e30800000000000000
+      internalID: 4494484887462114483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c33ded596f7690800000000000000
+      internalID: -7602241793845639486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f56246d7d376530800000000000000
+      internalID: 3848112015371820837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b5e02593fe1c40800000000000000
+      internalID: 5485089218011444367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e9c3bc273dfaa0800000000000000
+      internalID: -6125679253019564712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 199
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150c5deb9f98f9340800000000000000
+      internalID: 4872765027579707473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd01622b1247d10800000000000000
+      internalID: 2122358373424880391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 199
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35fd96df9f6e960800000000000000
+      internalID: 7631061485424169909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435b442713a19d60800000000000000
+      internalID: 7895270941545681743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 199
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3494708945456f0800000000000000
+      internalID: -696839030401580055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 199
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0075e4968e3dc90800000000000000
+      internalID: -7146112644723310379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 199
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd8fdac566816f0800000000000000
+      internalID: -713707992696430749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867752a9121884c0800000000000000
+      internalID: -4285155144135903612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 163
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de8356b98644bbe0800000000000000
+      internalID: -1462466421705175337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 163
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93abf60a063e18c0800000000000000
+      internalID: -4026721600127917153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 163
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8485ce2f1c6d160800000000000000
+      internalID: 7050035515786545403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 163
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e7a7d95c10e190800000000000000
+      internalID: -7935311371231041039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 180
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cea9a485a23a20800000000000000
+      internalID: 3040674687629575066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 163
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea94851aca706310800000000000000
+      internalID: 1396250892847848175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a25cd101f350230800000000000000
+      internalID: 3604356415231437340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec39c585f7e544e0800000000000000
+      internalID: -1997935817971385105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3c1816b18236db0800000000000000
+      internalID: -4799948679781694487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 157
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9092f0c1c76771d0800000000000000
+      internalID: -3353097315690573667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2def59f78ef6ee10800000000000000
+      internalID: 2226746925739142447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 163
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b620288bf157a7380800000000000000
+      internalID: -8972730528482327957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 158
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7c86a23724d9140800000000000000
+      internalID: 4728008246209071032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 163
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8bc534db906610800000000000000
+      internalID: 1612460002336542265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 163
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e5d8e3626b5d70800000000000000
+      internalID: 9032921658869277225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 157
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6104f02028fe60800000000000000
+      internalID: 7996176464301091717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 126
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d903889d10ea03bc0800000000000000
+      internalID: -3805350362160287587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a3ece06fd56d100800000000000000
+      internalID: 132396550445742700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472897c90d7ba680800000000000000
+      internalID: -8742756770652870843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 126
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5726832c5686de250800000000000000
+      internalID: 5975547066849976949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce7c33c559ee510800000000000000
+      internalID: 1580364742491892855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 120
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e022142ab92900800000000000000
+      internalID: 660263484472222520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7df0edbfb18410800000000000000
+      internalID: 1477672974998666904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 140
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1602080534c3b9e0800000000000000
+      internalID: -1606724909994473953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 126
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879956f5346381a00800000000000000
+      internalID: 727391002811537784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 120
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed037a2d2db14cbb0800000000000000
+      internalID: -4916774300890484514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2209044be98150800000000000000
+      internalID: 5875485866322963513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862aef6819a368f0800000000000000
+      internalID: -548408807187143026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29126e8de5bfa49d0800000000000000
+      internalID: -2789140634418142830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfef529165ea6ad70800000000000000
+      internalID: 9054115785687301885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c50580dc86d1b0800000000000000
+      internalID: -5632159456767393535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 89
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80476dfdb9944b830800000000000000
+      internalID: 4085971695756014600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1d36f69c1aaf40800000000000000
+      internalID: 5740432109738991236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 89
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb6c023e61e6e510800000000000000
+      internalID: 1578196582842264550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 89
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df7a58851d8e3350800000000000000
+      internalID: 5998386877325541330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 89
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eea41addb94f450800000000000000
+      internalID: 6121689169699466793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a50b405cf9ff1c0800000000000000
+      internalID: -4467676636792202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b6ab0314ab3be0800000000000000
+      internalID: -1496422049463748586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b9ad6cd6daf580800000000000000
+      internalID: -8792479080266483516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32823131b5f420f60800000000000000
+      internalID: 7999043140744063011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229c693447f88e770800000000000000
+      internalID: 8640313614623230242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae58cd5763c92110800000000000000
+      internalID: 1236734421412372143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d41f6fee16ff40800000000000000
+      internalID: 5761826786976781113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a5e7b0408837780800000000000000
+      internalID: -8686449705313477996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17733db42b3db7c40800000000000000
+      internalID: 5511231331747706737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 66
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105f17457d782920800000000000000
+      internalID: 2965758297281351703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 52
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ef6e9dba936830800000000000000
+      internalID: 4063261428015949644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639f9cc683d79160800000000000000
+      internalID: 7032321919074407266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 52
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc41ce15bc49fdd0800000000000000
+      internalID: -2451844181337748259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0c39953a4a3aa0800000000000000
+      internalID: -6180545944548012073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 52
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732a5772a54c90040800000000000000
+      internalID: 4614435184705905207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 52
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c4f5252e9ffe50800000000000000
+      internalID: 6845363841014219632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 46
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ede920ae0d997c0800000000000000
+      internalID: -4063987485240271350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe80178f77d2c3ae0800000000000000
+      internalID: -1568328576939259665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cacb01e2a9050fd0800000000000000
+      internalID: -2376482633203070268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11903eb2b131b03c0800000000000000
+      internalID: -4392396004148442863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 46
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93af116ae12bcbc00800000000000000
+      internalID: 917804268781697593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10264e5d38883f5c0800000000000000
+      internalID: -4182849529086451199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0a9ac5e6020be0800000000000000
+      internalID: -1512638940826693950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kim_Talk-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e5e249ab1e5920800000000000000
+      internalID: 2980850417151633570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kim_Talk-removebg-preview_0: -709949932660820445
+      Kim_Talk-removebg-preview_1: 1722107752144458780
+      Kim_Talk-removebg-preview_10: 2419159280332850123
+      Kim_Talk-removebg-preview_100: 4236363066521254332
+      Kim_Talk-removebg-preview_101: -8599460432140243343
+      Kim_Talk-removebg-preview_102: 173155559765710903
+      Kim_Talk-removebg-preview_103: -8188431659387475980
+      Kim_Talk-removebg-preview_104: -4889026521923784859
+      Kim_Talk-removebg-preview_105: 2820619276930634743
+      Kim_Talk-removebg-preview_106: 8411359903220558056
+      Kim_Talk-removebg-preview_107: 3431219081898412579
+      Kim_Talk-removebg-preview_108: -5226608109152854968
+      Kim_Talk-removebg-preview_109: 1585708750784033069
+      Kim_Talk-removebg-preview_11: -6567148884863090591
+      Kim_Talk-removebg-preview_110: 3832741849132005544
+      Kim_Talk-removebg-preview_111: -4464726671664318591
+      Kim_Talk-removebg-preview_112: 5012876806731728878
+      Kim_Talk-removebg-preview_113: -6156681566346273269
+      Kim_Talk-removebg-preview_114: -5920608221470562231
+      Kim_Talk-removebg-preview_115: -6370896369638256557
+      Kim_Talk-removebg-preview_116: 7462010415403163622
+      Kim_Talk-removebg-preview_117: 3472828421959195935
+      Kim_Talk-removebg-preview_118: -5974737576166522215
+      Kim_Talk-removebg-preview_119: -6796030404977717445
+      Kim_Talk-removebg-preview_12: -1978399904118751876
+      Kim_Talk-removebg-preview_120: -4062437574042092787
+      Kim_Talk-removebg-preview_121: -8130511445180901038
+      Kim_Talk-removebg-preview_122: 4494484887462114483
+      Kim_Talk-removebg-preview_123: -7602241793845639486
+      Kim_Talk-removebg-preview_124: 3848112015371820837
+      Kim_Talk-removebg-preview_125: 5485089218011444367
+      Kim_Talk-removebg-preview_126: -6125679253019564712
+      Kim_Talk-removebg-preview_127: 4872765027579707473
+      Kim_Talk-removebg-preview_128: 2122358373424880391
+      Kim_Talk-removebg-preview_129: 7631061485424169909
+      Kim_Talk-removebg-preview_13: -3375930077340614076
+      Kim_Talk-removebg-preview_130: 7895270941545681743
+      Kim_Talk-removebg-preview_131: -696839030401580055
+      Kim_Talk-removebg-preview_132: -7146112644723310379
+      Kim_Talk-removebg-preview_133: -713707992696430749
+      Kim_Talk-removebg-preview_134: -4285155144135903612
+      Kim_Talk-removebg-preview_135: -1462466421705175337
+      Kim_Talk-removebg-preview_136: -4026721600127917153
+      Kim_Talk-removebg-preview_137: 7050035515786545403
+      Kim_Talk-removebg-preview_138: -7935311371231041039
+      Kim_Talk-removebg-preview_139: 3040674687629575066
+      Kim_Talk-removebg-preview_14: 1823273575993572468
+      Kim_Talk-removebg-preview_140: 1396250892847848175
+      Kim_Talk-removebg-preview_141: 3604356415231437340
+      Kim_Talk-removebg-preview_142: -1997935817971385105
+      Kim_Talk-removebg-preview_143: -4799948679781694487
+      Kim_Talk-removebg-preview_144: -3353097315690573667
+      Kim_Talk-removebg-preview_145: 2226746925739142447
+      Kim_Talk-removebg-preview_146: -8972730528482327957
+      Kim_Talk-removebg-preview_147: 4728008246209071032
+      Kim_Talk-removebg-preview_148: 1612460002336542265
+      Kim_Talk-removebg-preview_149: 9032921658869277225
+      Kim_Talk-removebg-preview_15: -7051123245019457111
+      Kim_Talk-removebg-preview_150: 7996176464301091717
+      Kim_Talk-removebg-preview_151: -3805350362160287587
+      Kim_Talk-removebg-preview_152: 132396550445742700
+      Kim_Talk-removebg-preview_153: -8742756770652870843
+      Kim_Talk-removebg-preview_154: 5975547066849976949
+      Kim_Talk-removebg-preview_155: 1580364742491892855
+      Kim_Talk-removebg-preview_156: 660263484472222520
+      Kim_Talk-removebg-preview_157: 1477672974998666904
+      Kim_Talk-removebg-preview_158: -1606724909994473953
+      Kim_Talk-removebg-preview_159: 727391002811537784
+      Kim_Talk-removebg-preview_16: -8750351262750212727
+      Kim_Talk-removebg-preview_160: -4916774300890484514
+      Kim_Talk-removebg-preview_161: 5875485866322963513
+      Kim_Talk-removebg-preview_162: -548408807187143026
+      Kim_Talk-removebg-preview_163: -2789140634418142830
+      Kim_Talk-removebg-preview_164: 9054115785687301885
+      Kim_Talk-removebg-preview_165: -5632159456767393535
+      Kim_Talk-removebg-preview_166: 4085971695756014600
+      Kim_Talk-removebg-preview_167: 5740432109738991236
+      Kim_Talk-removebg-preview_168: 1578196582842264550
+      Kim_Talk-removebg-preview_169: 5998386877325541330
+      Kim_Talk-removebg-preview_17: 426359681427795585
+      Kim_Talk-removebg-preview_170: 6121689169699466793
+      Kim_Talk-removebg-preview_171: -4467676636792202717
+      Kim_Talk-removebg-preview_172: -1496422049463748586
+      Kim_Talk-removebg-preview_173: -8792479080266483516
+      Kim_Talk-removebg-preview_174: 7999043140744063011
+      Kim_Talk-removebg-preview_175: 8640313614623230242
+      Kim_Talk-removebg-preview_176: 1236734421412372143
+      Kim_Talk-removebg-preview_177: 5761826786976781113
+      Kim_Talk-removebg-preview_178: -8686449705313477996
+      Kim_Talk-removebg-preview_179: 5511231331747706737
+      Kim_Talk-removebg-preview_18: -6465338759333862152
+      Kim_Talk-removebg-preview_180: 2965758297281351703
+      Kim_Talk-removebg-preview_181: 4063261428015949644
+      Kim_Talk-removebg-preview_182: 7032321919074407266
+      Kim_Talk-removebg-preview_183: -2451844181337748259
+      Kim_Talk-removebg-preview_184: -6180545944548012073
+      Kim_Talk-removebg-preview_185: 4614435184705905207
+      Kim_Talk-removebg-preview_186: 6845363841014219632
+      Kim_Talk-removebg-preview_187: -4063987485240271350
+      Kim_Talk-removebg-preview_188: -1568328576939259665
+      Kim_Talk-removebg-preview_189: -2376482633203070268
+      Kim_Talk-removebg-preview_19: 2929920212671405145
+      Kim_Talk-removebg-preview_190: -4392396004148442863
+      Kim_Talk-removebg-preview_191: 917804268781697593
+      Kim_Talk-removebg-preview_192: -4182849529086451199
+      Kim_Talk-removebg-preview_193: -1512638940826693950
+      Kim_Talk-removebg-preview_194: 2980850417151633570
+      Kim_Talk-removebg-preview_2: -3391026607001926021
+      Kim_Talk-removebg-preview_20: 7345477872128475513
+      Kim_Talk-removebg-preview_21: -5049874772578506775
+      Kim_Talk-removebg-preview_22: -8759049631797565035
+      Kim_Talk-removebg-preview_23: -7431206238981339384
+      Kim_Talk-removebg-preview_24: 4827495579636117685
+      Kim_Talk-removebg-preview_25: -3597781240516201434
+      Kim_Talk-removebg-preview_26: 9083208592779908543
+      Kim_Talk-removebg-preview_27: 6948282999862044902
+      Kim_Talk-removebg-preview_28: 1888387834842658829
+      Kim_Talk-removebg-preview_29: 2229979352362717066
+      Kim_Talk-removebg-preview_3: 479146110229917167
+      Kim_Talk-removebg-preview_30: 345454966015641036
+      Kim_Talk-removebg-preview_31: -120081442910430092
+      Kim_Talk-removebg-preview_32: -2260189322130060904
+      Kim_Talk-removebg-preview_33: 4480454480247644275
+      Kim_Talk-removebg-preview_34: -4320511647265954279
+      Kim_Talk-removebg-preview_35: 1662251961603659124
+      Kim_Talk-removebg-preview_36: 5938044425719182446
+      Kim_Talk-removebg-preview_37: -2558431431271909788
+      Kim_Talk-removebg-preview_38: -4670844497190191139
+      Kim_Talk-removebg-preview_39: -3987010628590854984
+      Kim_Talk-removebg-preview_4: -1907346052581920896
+      Kim_Talk-removebg-preview_40: -5389618043812401597
+      Kim_Talk-removebg-preview_41: -8852992597421853979
+      Kim_Talk-removebg-preview_42: -7888660360201507252
+      Kim_Talk-removebg-preview_43: 8399481067182226032
+      Kim_Talk-removebg-preview_44: 4939171324495632815
+      Kim_Talk-removebg-preview_45: -4522988403298902827
+      Kim_Talk-removebg-preview_46: 3783340714552752822
+      Kim_Talk-removebg-preview_47: 6849906370179491495
+      Kim_Talk-removebg-preview_48: 261107191384828427
+      Kim_Talk-removebg-preview_49: -5778571236332097394
+      Kim_Talk-removebg-preview_5: -9021949315746709360
+      Kim_Talk-removebg-preview_50: 4468292935350926891
+      Kim_Talk-removebg-preview_51: 4015286959459386091
+      Kim_Talk-removebg-preview_52: -3713138554466674373
+      Kim_Talk-removebg-preview_53: 2704712249377985054
+      Kim_Talk-removebg-preview_54: 4211937480038098305
+      Kim_Talk-removebg-preview_55: 1708119455453542462
+      Kim_Talk-removebg-preview_56: 3817065130102414180
+      Kim_Talk-removebg-preview_57: -6837670329959259298
+      Kim_Talk-removebg-preview_58: 6633337051996352206
+      Kim_Talk-removebg-preview_59: -3326828937424931238
+      Kim_Talk-removebg-preview_6: 2475146949402068878
+      Kim_Talk-removebg-preview_60: 6753439510424313972
+      Kim_Talk-removebg-preview_61: -2639013027830522291
+      Kim_Talk-removebg-preview_62: 5080368169413794638
+      Kim_Talk-removebg-preview_63: 392645840543584765
+      Kim_Talk-removebg-preview_64: 4793427385429750927
+      Kim_Talk-removebg-preview_65: -5395942504666374130
+      Kim_Talk-removebg-preview_66: -4905333597119579871
+      Kim_Talk-removebg-preview_67: 6328405241485777428
+      Kim_Talk-removebg-preview_68: -2330303912767282855
+      Kim_Talk-removebg-preview_69: -8661020263574397458
+      Kim_Talk-removebg-preview_7: 8929559110117155045
+      Kim_Talk-removebg-preview_70: 7984244962603407903
+      Kim_Talk-removebg-preview_71: -8229817696806028957
+      Kim_Talk-removebg-preview_72: -7456169045849730443
+      Kim_Talk-removebg-preview_73: 1041605918583470836
+      Kim_Talk-removebg-preview_74: -8619531361676586130
+      Kim_Talk-removebg-preview_75: -1696358297856306383
+      Kim_Talk-removebg-preview_76: -6351210151337291077
+      Kim_Talk-removebg-preview_77: -5468568717310954334
+      Kim_Talk-removebg-preview_78: 4969130212689536033
+      Kim_Talk-removebg-preview_79: -1918335412656991233
+      Kim_Talk-removebg-preview_8: -8915277608452394162
+      Kim_Talk-removebg-preview_80: 3181485200518172479
+      Kim_Talk-removebg-preview_81: 5766080745528302844
+      Kim_Talk-removebg-preview_82: 286393285387005779
+      Kim_Talk-removebg-preview_83: -8081274430618429068
+      Kim_Talk-removebg-preview_84: 6292171489118209615
+      Kim_Talk-removebg-preview_85: -6806932100872850450
+      Kim_Talk-removebg-preview_86: 6437107063716477845
+      Kim_Talk-removebg-preview_87: 5856419746577104108
+      Kim_Talk-removebg-preview_88: 3931140590442018273
+      Kim_Talk-removebg-preview_89: -6389750704367756395
+      Kim_Talk-removebg-preview_9: 6244400992716733703
+      Kim_Talk-removebg-preview_90: -4224615434167257376
+      Kim_Talk-removebg-preview_91: -6370341537820609398
+      Kim_Talk-removebg-preview_92: 3439611288872475936
+      Kim_Talk-removebg-preview_93: 2652534493403988275
+      Kim_Talk-removebg-preview_94: -7579703139805729860
+      Kim_Talk-removebg-preview_95: -145265073668055862
+      Kim_Talk-removebg-preview_96: -5022234343668818212
+      Kim_Talk-removebg-preview_97: -5680740050906730648
+      Kim_Talk-removebg-preview_98: -7098826284935660861
+      Kim_Talk-removebg-preview_99: -3456688841418845281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

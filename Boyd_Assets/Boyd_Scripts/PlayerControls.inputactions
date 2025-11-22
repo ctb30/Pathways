@@ -32,6 +32,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "LvL2Now",
+                    "type": "Button",
+                    "id": "de1469c9-0fe2-485b-8a8e-47b03ae02ec9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LvL3Now",
+                    "type": "Button",
+                    "id": "4e1f31b2-d480-49d6-9c25-a43174102dfd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -164,6 +182,39 @@
                     "processors": "",
                     "groups": "",
                     "action": "Next_Level",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8904491c-8531-45f4-843c-a0d4cade574a",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LvL2Now",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "856450c1-bc06-4ae7-bff5-c2aec409549b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LvL3Now",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "62a71af6-074d-411a-842d-bf22df29cfb8",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LvL3Now",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

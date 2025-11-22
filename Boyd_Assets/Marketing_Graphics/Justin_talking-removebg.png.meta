@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 26263f1d3fbddb149945a89a3dfca854
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7546049191353543737
+    second: Justin_talking-removebg_0
+  - first:
+      213: -3581100673791377863
+    second: Justin_talking-removebg_1
+  - first:
+      213: 7764625454506015015
+    second: Justin_talking-removebg_2
+  - first:
+      213: 3071682405101429914
+    second: Justin_talking-removebg_3
+  - first:
+      213: 2382239016386307455
+    second: Justin_talking-removebg_4
+  - first:
+      213: 8165222205256244256
+    second: Justin_talking-removebg_5
+  - first:
+      213: 4017323666299089851
+    second: Justin_talking-removebg_6
+  - first:
+      213: 864939773084302216
+    second: Justin_talking-removebg_7
+  - first:
+      213: 7663444172005620105
+    second: Justin_talking-removebg_8
+  - first:
+      213: -8614892532603615656
+    second: Justin_talking-removebg_9
+  - first:
+      213: 7541213626097701378
+    second: Justin_talking-removebg_10
+  - first:
+      213: -4830239075389721223
+    second: Justin_talking-removebg_11
+  - first:
+      213: -4702943219559810087
+    second: Justin_talking-removebg_12
+  - first:
+      213: -1648450807130853943
+    second: Justin_talking-removebg_13
+  - first:
+      213: -55601493374461056
+    second: Justin_talking-removebg_14
+  - first:
+      213: 3525345939867723517
+    second: Justin_talking-removebg_15
+  - first:
+      213: -1221405371440096369
+    second: Justin_talking-removebg_16
+  - first:
+      213: -1159461366587408871
+    second: Justin_talking-removebg_17
+  - first:
+      213: 3647782509774902578
+    second: Justin_talking-removebg_18
+  - first:
+      213: 543578609530208015
+    second: Justin_talking-removebg_19
+  - first:
+      213: -6659378262517422923
+    second: Justin_talking-removebg_20
+  - first:
+      213: 7687677177295034042
+    second: Justin_talking-removebg_21
+  - first:
+      213: 2230324804207541134
+    second: Justin_talking-removebg_22
+  - first:
+      213: 4018176512972178092
+    second: Justin_talking-removebg_23
+  - first:
+      213: -8828485952497697197
+    second: Justin_talking-removebg_24
+  - first:
+      213: -249604674525020364
+    second: Justin_talking-removebg_25
+  - first:
+      213: -5506489297034945505
+    second: Justin_talking-removebg_26
+  - first:
+      213: -7803511896657668771
+    second: Justin_talking-removebg_27
+  - first:
+      213: 4589936175876162146
+    second: Justin_talking-removebg_28
+  - first:
+      213: 5507429983771324647
+    second: Justin_talking-removebg_29
+  - first:
+      213: -234782049239158200
+    second: Justin_talking-removebg_30
+  - first:
+      213: 3778519587584703189
+    second: Justin_talking-removebg_31
+  - first:
+      213: 8161166119332385887
+    second: Justin_talking-removebg_32
+  - first:
+      213: -3795019534091034842
+    second: Justin_talking-removebg_33
+  - first:
+      213: 339478489866391877
+    second: Justin_talking-removebg_34
+  - first:
+      213: -8755569957153196509
+    second: Justin_talking-removebg_35
+  - first:
+      213: 146087514906258955
+    second: Justin_talking-removebg_36
+  - first:
+      213: 5088196712893537377
+    second: Justin_talking-removebg_37
+  - first:
+      213: 2856328062451765220
+    second: Justin_talking-removebg_38
+  - first:
+      213: 3132751063335139480
+    second: Justin_talking-removebg_39
+  - first:
+      213: 3516850050948701139
+    second: Justin_talking-removebg_40
+  - first:
+      213: 5613650898400135414
+    second: Justin_talking-removebg_41
+  - first:
+      213: -9007616012820384400
+    second: Justin_talking-removebg_42
+  - first:
+      213: 3902369326867877339
+    second: Justin_talking-removebg_43
+  - first:
+      213: -5174317440573984487
+    second: Justin_talking-removebg_44
+  - first:
+      213: 710572331537859675
+    second: Justin_talking-removebg_45
+  - first:
+      213: 8145750334138080102
+    second: Justin_talking-removebg_46
+  - first:
+      213: 6114744367301256073
+    second: Justin_talking-removebg_47
+  - first:
+      213: 5336199343025166285
+    second: Justin_talking-removebg_48
+  - first:
+      213: 1068841928967417259
+    second: Justin_talking-removebg_49
+  - first:
+      213: -3295820183423024207
+    second: Justin_talking-removebg_50
+  - first:
+      213: 935201922105822159
+    second: Justin_talking-removebg_51
+  - first:
+      213: -6528049531211451905
+    second: Justin_talking-removebg_52
+  - first:
+      213: 103185477967959987
+    second: Justin_talking-removebg_53
+  - first:
+      213: 804617695996833732
+    second: Justin_talking-removebg_54
+  - first:
+      213: -2021795168079834630
+    second: Justin_talking-removebg_55
+  - first:
+      213: 5077739197135508122
+    second: Justin_talking-removebg_56
+  - first:
+      213: 22341567572954961
+    second: Justin_talking-removebg_57
+  - first:
+      213: 5849940202307601011
+    second: Justin_talking-removebg_58
+  - first:
+      213: 3464514251704619101
+    second: Justin_talking-removebg_59
+  - first:
+      213: 2061669791862576054
+    second: Justin_talking-removebg_60
+  - first:
+      213: 5009555176485799436
+    second: Justin_talking-removebg_61
+  - first:
+      213: -3586794294518428629
+    second: Justin_talking-removebg_62
+  - first:
+      213: -6499825597988098739
+    second: Justin_talking-removebg_63
+  - first:
+      213: -2552548639479355918
+    second: Justin_talking-removebg_64
+  - first:
+      213: 475548861051495576
+    second: Justin_talking-removebg_65
+  - first:
+      213: 917052660366341776
+    second: Justin_talking-removebg_66
+  - first:
+      213: -1850538550411088637
+    second: Justin_talking-removebg_67
+  - first:
+      213: 2656853450744793073
+    second: Justin_talking-removebg_68
+  - first:
+      213: 1506128053388011904
+    second: Justin_talking-removebg_69
+  - first:
+      213: -8319291695543613227
+    second: Justin_talking-removebg_70
+  - first:
+      213: -1470185880021399757
+    second: Justin_talking-removebg_71
+  - first:
+      213: 8003314045530000346
+    second: Justin_talking-removebg_72
+  - first:
+      213: -2239610829253978904
+    second: Justin_talking-removebg_73
+  - first:
+      213: -4160538542772045200
+    second: Justin_talking-removebg_74
+  - first:
+      213: -6281658518096861020
+    second: Justin_talking-removebg_75
+  - first:
+      213: 6162161834471229251
+    second: Justin_talking-removebg_76
+  - first:
+      213: 8953693748677996956
+    second: Justin_talking-removebg_77
+  - first:
+      213: -6838563912045832908
+    second: Justin_talking-removebg_78
+  - first:
+      213: -1959204729224486526
+    second: Justin_talking-removebg_79
+  - first:
+      213: -6480505409115330140
+    second: Justin_talking-removebg_80
+  - first:
+      213: -7162153491537772888
+    second: Justin_talking-removebg_81
+  - first:
+      213: -8613564745806901014
+    second: Justin_talking-removebg_82
+  - first:
+      213: -5080795333263609397
+    second: Justin_talking-removebg_83
+  - first:
+      213: 8995729607832119562
+    second: Justin_talking-removebg_84
+  - first:
+      213: -1020441715277669804
+    second: Justin_talking-removebg_85
+  - first:
+      213: -8646868457369978366
+    second: Justin_talking-removebg_86
+  - first:
+      213: 5524762889385306324
+    second: Justin_talking-removebg_87
+  - first:
+      213: 3376634691608220170
+    second: Justin_talking-removebg_88
+  - first:
+      213: -8465216493455869400
+    second: Justin_talking-removebg_89
+  - first:
+      213: 2443821461051820180
+    second: Justin_talking-removebg_90
+  - first:
+      213: 2509227800199504055
+    second: Justin_talking-removebg_91
+  - first:
+      213: 4532805485170651513
+    second: Justin_talking-removebg_92
+  - first:
+      213: 7355702449105381785
+    second: Justin_talking-removebg_93
+  - first:
+      213: -453417468131003897
+    second: Justin_talking-removebg_94
+  - first:
+      213: -4071890187814074838
+    second: Justin_talking-removebg_95
+  - first:
+      213: 5104625401946199435
+    second: Justin_talking-removebg_96
+  - first:
+      213: -8568155532102579486
+    second: Justin_talking-removebg_97
+  - first:
+      213: 8110516675571459911
+    second: Justin_talking-removebg_98
+  - first:
+      213: -9038272627749836315
+    second: Justin_talking-removebg_99
+  - first:
+      213: 4148004134319962177
+    second: Justin_talking-removebg_100
+  - first:
+      213: 9110303575844950283
+    second: Justin_talking-removebg_101
+  - first:
+      213: -3359493879691905953
+    second: Justin_talking-removebg_102
+  - first:
+      213: -7627618019524007585
+    second: Justin_talking-removebg_103
+  - first:
+      213: 847378282353877259
+    second: Justin_talking-removebg_104
+  - first:
+      213: 638011142944505589
+    second: Justin_talking-removebg_105
+  - first:
+      213: -7987597023139825976
+    second: Justin_talking-removebg_106
+  - first:
+      213: -8284174677615336546
+    second: Justin_talking-removebg_107
+  - first:
+      213: -8667889792034674680
+    second: Justin_talking-removebg_108
+  - first:
+      213: 4832732060605455387
+    second: Justin_talking-removebg_109
+  - first:
+      213: 7715619414463181050
+    second: Justin_talking-removebg_110
+  - first:
+      213: -6843522670529843983
+    second: Justin_talking-removebg_111
+  - first:
+      213: 9214174480030469602
+    second: Justin_talking-removebg_112
+  - first:
+      213: 532748575286113285
+    second: Justin_talking-removebg_113
+  - first:
+      213: 3869871948057814987
+    second: Justin_talking-removebg_114
+  - first:
+      213: 2412845249071715435
+    second: Justin_talking-removebg_115
+  - first:
+      213: -5740268856122652264
+    second: Justin_talking-removebg_116
+  - first:
+      213: 3582892324638455091
+    second: Justin_talking-removebg_117
+  - first:
+      213: 6505862721761082981
+    second: Justin_talking-removebg_118
+  - first:
+      213: 1495849480194372944
+    second: Justin_talking-removebg_119
+  - first:
+      213: -677340451428602654
+    second: Justin_talking-removebg_120
+  - first:
+      213: -6385966965098429953
+    second: Justin_talking-removebg_121
+  - first:
+      213: 9154149903378397747
+    second: Justin_talking-removebg_122
+  - first:
+      213: -3387249765599890279
+    second: Justin_talking-removebg_123
+  - first:
+      213: 2024425351087867353
+    second: Justin_talking-removebg_124
+  - first:
+      213: -2121909351197485120
+    second: Justin_talking-removebg_125
+  - first:
+      213: 3251174439273261978
+    second: Justin_talking-removebg_126
+  - first:
+      213: 3972199993227431774
+    second: Justin_talking-removebg_127
+  - first:
+      213: -4255749981607884183
+    second: Justin_talking-removebg_128
+  - first:
+      213: -6445920454741821048
+    second: Justin_talking-removebg_129
+  - first:
+      213: 4309156207643942979
+    second: Justin_talking-removebg_130
+  - first:
+      213: 5005887968975324551
+    second: Justin_talking-removebg_131
+  - first:
+      213: 1236313336814625462
+    second: Justin_talking-removebg_132
+  - first:
+      213: -3726170410382785342
+    second: Justin_talking-removebg_133
+  - first:
+      213: -8121142980558081267
+    second: Justin_talking-removebg_134
+  - first:
+      213: -5064308862473539874
+    second: Justin_talking-removebg_135
+  - first:
+      213: -291205485954101287
+    second: Justin_talking-removebg_136
+  - first:
+      213: 7315813009725494641
+    second: Justin_talking-removebg_137
+  - first:
+      213: 5109351598672507299
+    second: Justin_talking-removebg_138
+  - first:
+      213: 4137821394618344213
+    second: Justin_talking-removebg_139
+  - first:
+      213: 4881405149849065088
+    second: Justin_talking-removebg_140
+  - first:
+      213: 9000510346188035640
+    second: Justin_talking-removebg_141
+  - first:
+      213: 7554773188827818365
+    second: Justin_talking-removebg_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Justin_talking-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39fbbbd3c074790800000000000000
+      internalID: -7546049191353543737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 369
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb0c129ef5d4ec0800000000000000
+      internalID: -3581100673791377863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72979cd46bd71cb60800000000000000
+      internalID: 7764625454506015015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 369
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9463ea7fdec0aa20800000000000000
+      internalID: 3071682405101429914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7528c583c96f0120800000000000000
+      internalID: 2382239016386307455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 369
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1e60a552b05170800000000000000
+      internalID: 8165222205256244256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 368
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f68df69660c730800000000000000
+      internalID: 4017323666299089851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 368
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bfbc61422e00c00800000000000000
+      internalID: 864939773084302216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 388
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989be6c2fd50a5a60800000000000000
+      internalID: 7663444172005620105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 369
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560fff92e0c17880800000000000000
+      internalID: -8614892532603615656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 368
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20293ee76d5c7a860800000000000000
+      internalID: 7541213626097701378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 368
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9753f23172b87fcb0800000000000000
+      internalID: -4830239075389721223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3e4f1f0acbbeb0800000000000000
+      internalID: -4702943219559810087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 368
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd624b89b68f19e0800000000000000
+      internalID: -1648450807130853943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 369
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1f628cb67a3ff0800000000000000
+      internalID: -55601493374461056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 368
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66e28447b8ce030800000000000000
+      internalID: 3525345939867723517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 368
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b1f843942bc0fe0800000000000000
+      internalID: -1221405371440096369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 363
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eb4c9b704c8efe0800000000000000
+      internalID: -1159461366587408871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 361
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2351409add68f9230800000000000000
+      internalID: 3647782509774902578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 363
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7c888ddd2b8700800000000000000
+      internalID: 543578609530208015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 324
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e0bdc0c22593a0800000000000000
+      internalID: -6659378262517422923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 324
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab65c8469ad10ba60800000000000000
+      internalID: 7687677177295034042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 324
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b7888b794b3fe10800000000000000
+      internalID: 2230324804207541134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 324
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24684df3e63c730800000000000000
+      internalID: 4018176512972178092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 341
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e39d03dcaea7580800000000000000
+      internalID: -8828485952497697197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 324
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb8a8fed9398cf0800000000000000
+      internalID: -249604674525020364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cddb2b8250593b0800000000000000
+      internalID: -5506489297034945505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 324
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d555f27564b54b390800000000000000
+      internalID: -7803511896657668771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26240d822aab2bf30800000000000000
+      internalID: 4589936175876162146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 324
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0760004625e6c40800000000000000
+      internalID: 5507429983771324647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842367b58f2edbcf0800000000000000
+      internalID: -234782049239158200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 324
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da77d2ab8fff6430800000000000000
+      internalID: 3778519587584703189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 323
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5492c78859424170800000000000000
+      internalID: 8161166119332385887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 318
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd5d237d1655bc0800000000000000
+      internalID: -3795019534091034842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5415f5d43e116b400800000000000000
+      internalID: 339478489866391877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 318
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263dc15387fd7680800000000000000
+      internalID: -8755569957153196509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 324
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e6b1022d1070200800000000000000
+      internalID: 146087514906258955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c5453b3f7ec9640800000000000000
+      internalID: 5088196712893537377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 281
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efca644d37b3a720800000000000000
+      internalID: 2856328062451765220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 281
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89871db7e74c97b20800000000000000
+      internalID: 3132751063335139480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db9c1ffc7c5ec030800000000000000
+      internalID: 3516850050948701139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8413cefb1b7ed40800000000000000
+      internalID: 5613650898400135414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 281
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07578b2f5f48ef280800000000000000
+      internalID: -9007616012820384400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 281
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd07562a30082630800000000000000
+      internalID: 3902369326867877339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 281
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ba77d3b12138b0800000000000000
+      internalID: -5174317440573984487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 275
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54098055c57cd900800000000000000
+      internalID: 710572331537859675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 281
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd15755c48b0170800000000000000
+      internalID: 8145750334138080102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 281
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ef41da9febd450800000000000000
+      internalID: 6114744367301256073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 281
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc710b3b70dfd0a40800000000000000
+      internalID: 5336199343025166285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 276
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6529421a45de00800000000000000
+      internalID: 1068841928967417259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 238
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b302835105e242d0800000000000000
+      internalID: -3295820183423024207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 231
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb416871318afc00800000000000000
+      internalID: 935201922105822159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff17cf7d985b765a0800000000000000
+      internalID: -6528049531211451905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 238
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7524045a69e6100800000000000000
+      internalID: 103185477967959987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf62ed08839a2b00800000000000000
+      internalID: 804617695996833732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 238
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1100ea10421f3e0800000000000000
+      internalID: -2021795168079834630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 238
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d65395e0c77640800000000000000
+      internalID: 5077739197135508122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 238
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f49ee898f5f4000800000000000000
+      internalID: 22341567572954961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 238
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37242d3ae992f2150800000000000000
+      internalID: 5849940202307601011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 231
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50d12c2b5d641030800000000000000
+      internalID: 3464514251704619101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 231
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35f14a0c58c9c10800000000000000
+      internalID: 2061669791862576054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 238
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c72924e3858540800000000000000
+      internalID: 5009555176485799436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 231
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc4d0c795293ec0800000000000000
+      internalID: -3586794294518428629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 238
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dade16e0bfbc5a0800000000000000
+      internalID: -6499825597988098739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 238
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f52def4986839cd0800000000000000
+      internalID: -2552548639479355918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 238
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e0586b2d799600800000000000000
+      internalID: 475548861051495576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 238
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096767d29860abc00800000000000000
+      internalID: 917052660366341776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 238
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da4933ef09156e0800000000000000
+      internalID: -1850538550411088637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f70ae7032a0fd420800000000000000
+      internalID: 2656853450744793073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 195
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08961781c77d6e410800000000000000
+      internalID: 1506128053388011904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80448c740fb8c80800000000000000
+      internalID: -8319291695543613227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33787834bb9d89be0800000000000000
+      internalID: -1470185880021399757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc5b598bb711f60800000000000000
+      internalID: 8003314045530000346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d23711dd4be0e0800000000000000
+      internalID: -2239610829253978904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a30c32d3cc246c0800000000000000
+      internalID: -4160538542772045200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 195
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a7840cd013d8a0800000000000000
+      internalID: -6281658518096861020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 195
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34780283a85648550800000000000000
+      internalID: 6162161834471229251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 195
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9176959609e14c70800000000000000
+      internalID: 8953693748677996956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d3b0ba5a8811a0800000000000000
+      internalID: -6838563912045832908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 195
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812f48dda18fc4e0800000000000000
+      internalID: -1959204729224486526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 195
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9eea46aae9016a0800000000000000
+      internalID: -6480505409115330140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae311e985bea9c90800000000000000
+      internalID: -7162153491537772888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae01a541088767880800000000000000
+      internalID: -8613564745806901014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 188
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc13c5840936d79b0800000000000000
+      internalID: -5080795333263609397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 195
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092c4aba6047dc70800000000000000
+      internalID: 8995729607832119562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a52ee9aa9a6d1f0800000000000000
+      internalID: -1020441715277669804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abeea73f6200880800000000000000
+      internalID: -8646868457369978366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d862129396ebac40800000000000000
+      internalID: 5524762889385306324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029191ac573cde20800000000000000
+      internalID: 3376634691608220170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af8c82372858a80800000000000000
+      internalID: -8465216493455869400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 152
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4984870cba23ae120800000000000000
+      internalID: 2443821461051820180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 152
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02d6bc36192d220800000000000000
+      internalID: 2509227800199504055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f98ba292c7ee30800000000000000
+      internalID: 4532805485170651513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 152
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a560c764b41660800000000000000
+      internalID: 7355702449105381785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 152
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702381d073325b9f0800000000000000
+      internalID: -453417468131003897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 152
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2681fea27dbd77c0800000000000000
+      internalID: -4071890187814074838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 145
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855072f1c547d640800000000000000
+      internalID: 5104625401946199435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 152
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4ab880fbc71980800000000000000
+      internalID: -8568155532102579486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 152
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a150f1f75e8070800000000000000
+      internalID: 8110516675571459911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 152
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a5df8eea919280800000000000000
+      internalID: -9038272627749836315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 152
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1483ef878cba09930800000000000000
+      internalID: 4148004134319962177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01953275dc4e6e70800000000000000
+      internalID: 9110303575844950283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f547dd3ad1ea061d0800000000000000
+      internalID: -3359493879691905953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5927e7f2d1452690800000000000000
+      internalID: -7627618019524007585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 109
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016516ee0e72cb00800000000000000
+      internalID: 847378282353877259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 108
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feb2f111cbaad800800000000000000
+      internalID: 638011142944505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 109
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c678cad3da562190800000000000000
+      internalID: -7987597023139825976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a37ba503b80d80800000000000000
+      internalID: -8284174677615336546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 108
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e989982875b780800000000000000
+      internalID: -8667889792034674680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 108
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c97074430511340800000000000000
+      internalID: 4832732060605455387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af07f257af2631b60800000000000000
+      internalID: 7715619414463181050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 109
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc6cb2c36ce601a0800000000000000
+      internalID: -6843522670529843983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 108
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8faceed25fdf70800000000000000
+      internalID: 9214174480030469602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043680b104b46700800000000000000
+      internalID: 532748575286113285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 107
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72c36880c84b530800000000000000
+      internalID: 3869871948057814987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6498e068f52c7120800000000000000
+      internalID: 2412845249071715435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899429b73e77650b0800000000000000
+      internalID: -5740268856122652264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 65
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3357c86169df8b130800000000000000
+      internalID: 3582892324638455091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e76080da7794a50800000000000000
+      internalID: 6505862721761082981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05530784d2352c410800000000000000
+      internalID: 1495849480194372944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6898b27a9996f0800000000000000
+      internalID: -677340451428602654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 65
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cde921ec7067a0800000000000000
+      internalID: -6385966965098429953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33abb8b16d21a0f70800000000000000
+      internalID: 9154149903378397747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 59
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b4ebd8421ef0d0800000000000000
+      internalID: -3387249765599890279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d543e58124381c10800000000000000
+      internalID: 2024425351087867353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 65
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75b4cffa67d82e0800000000000000
+      internalID: -2121909351197485120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b66b35ded7e1d20800000000000000
+      internalID: 3251174439273261978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 65
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f412529d6102730800000000000000
+      internalID: 3972199993227431774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a036d80f980f4c0800000000000000
+      internalID: -4255749981607884183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 65
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88970b49f7d7b86a0800000000000000
+      internalID: -6445920454741821048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 59
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340694e6db23dcb30800000000000000
+      internalID: 4309156207643942979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850d20e59c787540800000000000000
+      internalID: 5005887968975324551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e9e7fd64482110800000000000000
+      internalID: 1236313336814625462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 59
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4009cf0cbf94cc0800000000000000
+      internalID: -3726170410382785342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 73
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03bda1ac77eb4f80800000000000000
+      internalID: -8121142980558081267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 22
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edee663ebe5f7b9b0800000000000000
+      internalID: -5064308862473539874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 22
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8f05472e65fbf0800000000000000
+      internalID: -291205485954101287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759ed7eb2df68560800000000000000
+      internalID: 7315813009725494641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 22
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f27f553018e640800000000000000
+      internalID: 5109351598672507299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ec32a2ae7c6930800000000000000
+      internalID: 4137821394618344213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0861489fe1c3eb340800000000000000
+      internalID: 4881405149849065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 22
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83614cd197c38ec70800000000000000
+      internalID: 9000510346188035640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Justin_talking-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 20
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d792ab63032f7d860800000000000000
+      internalID: 7554773188827818365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Justin_talking-removebg_0: -7546049191353543737
+      Justin_talking-removebg_1: -3581100673791377863
+      Justin_talking-removebg_10: 7541213626097701378
+      Justin_talking-removebg_100: 4148004134319962177
+      Justin_talking-removebg_101: 9110303575844950283
+      Justin_talking-removebg_102: -3359493879691905953
+      Justin_talking-removebg_103: -7627618019524007585
+      Justin_talking-removebg_104: 847378282353877259
+      Justin_talking-removebg_105: 638011142944505589
+      Justin_talking-removebg_106: -7987597023139825976
+      Justin_talking-removebg_107: -8284174677615336546
+      Justin_talking-removebg_108: -8667889792034674680
+      Justin_talking-removebg_109: 4832732060605455387
+      Justin_talking-removebg_11: -4830239075389721223
+      Justin_talking-removebg_110: 7715619414463181050
+      Justin_talking-removebg_111: -6843522670529843983
+      Justin_talking-removebg_112: 9214174480030469602
+      Justin_talking-removebg_113: 532748575286113285
+      Justin_talking-removebg_114: 3869871948057814987
+      Justin_talking-removebg_115: 2412845249071715435
+      Justin_talking-removebg_116: -5740268856122652264
+      Justin_talking-removebg_117: 3582892324638455091
+      Justin_talking-removebg_118: 6505862721761082981
+      Justin_talking-removebg_119: 1495849480194372944
+      Justin_talking-removebg_12: -4702943219559810087
+      Justin_talking-removebg_120: -677340451428602654
+      Justin_talking-removebg_121: -6385966965098429953
+      Justin_talking-removebg_122: 9154149903378397747
+      Justin_talking-removebg_123: -3387249765599890279
+      Justin_talking-removebg_124: 2024425351087867353
+      Justin_talking-removebg_125: -2121909351197485120
+      Justin_talking-removebg_126: 3251174439273261978
+      Justin_talking-removebg_127: 3972199993227431774
+      Justin_talking-removebg_128: -4255749981607884183
+      Justin_talking-removebg_129: -6445920454741821048
+      Justin_talking-removebg_13: -1648450807130853943
+      Justin_talking-removebg_130: 4309156207643942979
+      Justin_talking-removebg_131: 5005887968975324551
+      Justin_talking-removebg_132: 1236313336814625462
+      Justin_talking-removebg_133: -3726170410382785342
+      Justin_talking-removebg_134: -8121142980558081267
+      Justin_talking-removebg_135: -5064308862473539874
+      Justin_talking-removebg_136: -291205485954101287
+      Justin_talking-removebg_137: 7315813009725494641
+      Justin_talking-removebg_138: 5109351598672507299
+      Justin_talking-removebg_139: 4137821394618344213
+      Justin_talking-removebg_14: -55601493374461056
+      Justin_talking-removebg_140: 4881405149849065088
+      Justin_talking-removebg_141: 9000510346188035640
+      Justin_talking-removebg_142: 7554773188827818365
+      Justin_talking-removebg_15: 3525345939867723517
+      Justin_talking-removebg_16: -1221405371440096369
+      Justin_talking-removebg_17: -1159461366587408871
+      Justin_talking-removebg_18: 3647782509774902578
+      Justin_talking-removebg_19: 543578609530208015
+      Justin_talking-removebg_2: 7764625454506015015
+      Justin_talking-removebg_20: -6659378262517422923
+      Justin_talking-removebg_21: 7687677177295034042
+      Justin_talking-removebg_22: 2230324804207541134
+      Justin_talking-removebg_23: 4018176512972178092
+      Justin_talking-removebg_24: -8828485952497697197
+      Justin_talking-removebg_25: -249604674525020364
+      Justin_talking-removebg_26: -5506489297034945505
+      Justin_talking-removebg_27: -7803511896657668771
+      Justin_talking-removebg_28: 4589936175876162146
+      Justin_talking-removebg_29: 5507429983771324647
+      Justin_talking-removebg_3: 3071682405101429914
+      Justin_talking-removebg_30: -234782049239158200
+      Justin_talking-removebg_31: 3778519587584703189
+      Justin_talking-removebg_32: 8161166119332385887
+      Justin_talking-removebg_33: -3795019534091034842
+      Justin_talking-removebg_34: 339478489866391877
+      Justin_talking-removebg_35: -8755569957153196509
+      Justin_talking-removebg_36: 146087514906258955
+      Justin_talking-removebg_37: 5088196712893537377
+      Justin_talking-removebg_38: 2856328062451765220
+      Justin_talking-removebg_39: 3132751063335139480
+      Justin_talking-removebg_4: 2382239016386307455
+      Justin_talking-removebg_40: 3516850050948701139
+      Justin_talking-removebg_41: 5613650898400135414
+      Justin_talking-removebg_42: -9007616012820384400
+      Justin_talking-removebg_43: 3902369326867877339
+      Justin_talking-removebg_44: -5174317440573984487
+      Justin_talking-removebg_45: 710572331537859675
+      Justin_talking-removebg_46: 8145750334138080102
+      Justin_talking-removebg_47: 6114744367301256073
+      Justin_talking-removebg_48: 5336199343025166285
+      Justin_talking-removebg_49: 1068841928967417259
+      Justin_talking-removebg_5: 8165222205256244256
+      Justin_talking-removebg_50: -3295820183423024207
+      Justin_talking-removebg_51: 935201922105822159
+      Justin_talking-removebg_52: -6528049531211451905
+      Justin_talking-removebg_53: 103185477967959987
+      Justin_talking-removebg_54: 804617695996833732
+      Justin_talking-removebg_55: -2021795168079834630
+      Justin_talking-removebg_56: 5077739197135508122
+      Justin_talking-removebg_57: 22341567572954961
+      Justin_talking-removebg_58: 5849940202307601011
+      Justin_talking-removebg_59: 3464514251704619101
+      Justin_talking-removebg_6: 4017323666299089851
+      Justin_talking-removebg_60: 2061669791862576054
+      Justin_talking-removebg_61: 5009555176485799436
+      Justin_talking-removebg_62: -3586794294518428629
+      Justin_talking-removebg_63: -6499825597988098739
+      Justin_talking-removebg_64: -2552548639479355918
+      Justin_talking-removebg_65: 475548861051495576
+      Justin_talking-removebg_66: 917052660366341776
+      Justin_talking-removebg_67: -1850538550411088637
+      Justin_talking-removebg_68: 2656853450744793073
+      Justin_talking-removebg_69: 1506128053388011904
+      Justin_talking-removebg_7: 864939773084302216
+      Justin_talking-removebg_70: -8319291695543613227
+      Justin_talking-removebg_71: -1470185880021399757
+      Justin_talking-removebg_72: 8003314045530000346
+      Justin_talking-removebg_73: -2239610829253978904
+      Justin_talking-removebg_74: -4160538542772045200
+      Justin_talking-removebg_75: -6281658518096861020
+      Justin_talking-removebg_76: 6162161834471229251
+      Justin_talking-removebg_77: 8953693748677996956
+      Justin_talking-removebg_78: -6838563912045832908
+      Justin_talking-removebg_79: -1959204729224486526
+      Justin_talking-removebg_8: 7663444172005620105
+      Justin_talking-removebg_80: -6480505409115330140
+      Justin_talking-removebg_81: -7162153491537772888
+      Justin_talking-removebg_82: -8613564745806901014
+      Justin_talking-removebg_83: -5080795333263609397
+      Justin_talking-removebg_84: 8995729607832119562
+      Justin_talking-removebg_85: -1020441715277669804
+      Justin_talking-removebg_86: -8646868457369978366
+      Justin_talking-removebg_87: 5524762889385306324
+      Justin_talking-removebg_88: 3376634691608220170
+      Justin_talking-removebg_89: -8465216493455869400
+      Justin_talking-removebg_9: -8614892532603615656
+      Justin_talking-removebg_90: 2443821461051820180
+      Justin_talking-removebg_91: 2509227800199504055
+      Justin_talking-removebg_92: 4532805485170651513
+      Justin_talking-removebg_93: 7355702449105381785
+      Justin_talking-removebg_94: -453417468131003897
+      Justin_talking-removebg_95: -4071890187814074838
+      Justin_talking-removebg_96: 5104625401946199435
+      Justin_talking-removebg_97: -8568155532102579486
+      Justin_talking-removebg_98: 8110516675571459911
+      Justin_talking-removebg_99: -9038272627749836315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
