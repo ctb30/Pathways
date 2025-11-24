@@ -50,6 +50,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "LvL4Now",
+                    "type": "Button",
+                    "id": "3c60c3f7-c754-422d-af13-432c5a37d286",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -215,6 +224,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "LvL3Now",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dbe683b5-e23b-4377-912b-80451f9ef377",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LvL4Now",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fbf201c7-4112-4ff1-97b1-7817f4530c00",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LvL4Now",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
