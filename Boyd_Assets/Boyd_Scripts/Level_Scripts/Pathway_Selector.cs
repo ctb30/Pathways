@@ -17,6 +17,7 @@ public class Pathway_Selector : MonoBehaviour
     public void Sci_Pathway()
     {
         Debug.Log("Science Pathway Selected");
+        SceneManager.LoadScene(9);
     }
 
     public void Bus_Pathway()
@@ -27,5 +28,6 @@ public class Pathway_Selector : MonoBehaviour
     public void Health_Pathway()
     {
         Debug.Log("Healthcare Pathway Selected");
+        SceneManager.LoadScene(7);
     }
 }

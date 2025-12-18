@@ -1,0 +1,3 @@
+Overview: The Richard Bland College Gamified Career Pathways experience is an interactive game designed to introduce current and prospective students to the academic programs, career routes, and hands-on opportunities available through GoRBC and the wider RBC community. This project is part of the Office of Research & Innovation (ORI) initiative to bring next-generation educational tools directly to learners—on campus, online, and now through the GoRBC Mobile Unit.
+
+Players engage with a series of short, immersive scenes that highlight majors, careers, skills, and real-world pathways. The game is meant to be quick, visual, and intuitive, making it perfect for outreach events, school visits, and mobile unit deployments.
