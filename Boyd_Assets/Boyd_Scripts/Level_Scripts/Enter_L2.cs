@@ -22,6 +22,6 @@ public class Enter_L2 : MonoBehaviour
     private void InputLvl2Scene(InputAction.CallbackContext obj)
     {
         Debug.Log("SPACE CLICKED");
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);//update
     }
 }

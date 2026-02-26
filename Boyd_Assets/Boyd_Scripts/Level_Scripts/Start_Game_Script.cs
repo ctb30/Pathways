@@ -22,6 +22,6 @@ public class Start_Game_Script: MonoBehaviour
     private void Next_Level_Now(InputAction.CallbackContext obj)
     {
         Debug.Log("SPACE CLICKED");
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);//update
     }
 }

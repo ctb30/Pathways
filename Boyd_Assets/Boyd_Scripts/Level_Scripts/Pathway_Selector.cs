@@ -1,3 +1,5 @@
+//Last updated Jan 12th 2026 
+//Courtney Boyd 
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events; 
@@ -17,17 +19,18 @@ public class Pathway_Selector : MonoBehaviour
     public void Sci_Pathway()
     {
         Debug.Log("Science Pathway Selected");
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(8);//update
     }
 
     public void Bus_Pathway()
     {
         Debug.Log("Business Pathway Selected");
+        SceneManager.LoadScene(10);
     }
 
     public void Health_Pathway()
     {
         Debug.Log("Healthcare Pathway Selected");
-        SceneManager.LoadScene(7);
+        SceneManager.LoadScene(6);//update
     }
 }
