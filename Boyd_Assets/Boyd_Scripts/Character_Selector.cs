@@ -9,6 +9,10 @@ public class Character_Selector : MonoBehaviour
 
     public SpriteRenderer LastPerson_Graphic;
 
+    public Animator ThisPerson_Animator;
+
+    public Animator LastPerson_Animator;
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -24,8 +28,9 @@ public class Character_Selector : MonoBehaviour
     }
 
     public void Update_to_ThisPerson_Graphic(){
-        LastPerson_Graphic.sprite = ThisPerson_Graphic.sprite; 
-
+        //LastPerson_Graphic.sprite = ThisPerson_Graphic.sprite; 
+        LastPerson_Animator.runtimeAnimatorController = ThisPerson_Animator.runtimeAnimatorController;
     }
+
 
 }

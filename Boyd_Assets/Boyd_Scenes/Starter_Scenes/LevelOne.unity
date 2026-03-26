@@ -429,6 +429,8 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 90267161}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 0}
+  LastPerson_Animator: {fileID: 0}
 --- !u!1 &107387032
 GameObject:
   m_ObjectHideFlags: 0
@@ -865,6 +867,7 @@ GameObject:
   - component: {fileID: 432805180}
   - component: {fileID: 432805183}
   - component: {fileID: 432805182}
+  - component: {fileID: 432805184}
   m_Layer: 0
   m_Name: Blue_0
   m_TagString: Untagged
@@ -1029,6 +1032,30 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 432805180}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 432805184}
+  LastPerson_Animator: {fileID: 0}
+--- !u!95 &432805184
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 432805179}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8045ed6e03a3ed346bc0a0f477648bb4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &454185383
 GameObject:
   m_ObjectHideFlags: 0
@@ -1292,6 +1319,8 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 540349270}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 0}
+  LastPerson_Animator: {fileID: 0}
 --- !u!1 &593034503
 GameObject:
   m_ObjectHideFlags: 0
@@ -1513,6 +1542,8 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 718528555}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 0}
+  LastPerson_Animator: {fileID: 0}
 --- !u!1 &749111708
 GameObject:
   m_ObjectHideFlags: 0
@@ -1959,6 +1990,8 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 988332872}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 0}
+  LastPerson_Animator: {fileID: 0}
 --- !u!1 &1066548182
 GameObject:
   m_ObjectHideFlags: 0
@@ -2423,6 +2456,7 @@ GameObject:
   - component: {fileID: 1702752831}
   - component: {fileID: 1702752830}
   - component: {fileID: 1702752833}
+  - component: {fileID: 1702752834}
   m_Layer: 0
   m_Name: Rose_0
   m_TagString: Rose
@@ -2468,7 +2502,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.88, y: 2.15}
+    oldSize: {x: 1.62, y: 2.15}
     newSize: {x: 0.88, y: 2.15}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2587,6 +2621,30 @@ MonoBehaviour:
         m_CallState: 2
   ThisPerson_Graphic: {fileID: 1702752831}
   LastPerson_Graphic: {fileID: 1792901930}
+  ThisPerson_Animator: {fileID: 0}
+  LastPerson_Animator: {fileID: 0}
+--- !u!95 &1702752834
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1702752829}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9f931aa6f908ae543aa0a57515aa2b6b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1792901927
 GameObject:
   m_ObjectHideFlags: 0
