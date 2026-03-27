@@ -265,6 +265,7 @@ GameObject:
   - component: {fileID: 90267161}
   - component: {fileID: 90267160}
   - component: {fileID: 90267163}
+  - component: {fileID: 90267164}
   m_Layer: 0
   m_Name: Keisha_0
   m_TagString: Keisha
@@ -431,6 +432,28 @@ MonoBehaviour:
   LastPerson_Graphic: {fileID: 1792901930}
   ThisPerson_Animator: {fileID: 0}
   LastPerson_Animator: {fileID: 0}
+--- !u!95 &90267164
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90267159}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9b8d0f8a79e1e2449d2183802f02654, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &107387032
 GameObject:
   m_ObjectHideFlags: 0
@@ -1155,6 +1178,7 @@ GameObject:
   - component: {fileID: 540349270}
   - component: {fileID: 540349272}
   - component: {fileID: 540349273}
+  - component: {fileID: 540349274}
   m_Layer: 0
   m_Name: Jim_0
   m_TagString: Jim
@@ -1321,6 +1345,28 @@ MonoBehaviour:
   LastPerson_Graphic: {fileID: 1792901930}
   ThisPerson_Animator: {fileID: 0}
   LastPerson_Animator: {fileID: 0}
+--- !u!95 &540349274
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540349268}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8d2bf78bd14df51468e699cbc131184d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &593034503
 GameObject:
   m_ObjectHideFlags: 0
@@ -1378,6 +1424,7 @@ GameObject:
   - component: {fileID: 718528555}
   - component: {fileID: 718528554}
   - component: {fileID: 718528557}
+  - component: {fileID: 718528558}
   m_Layer: 0
   m_Name: Eric_0
   m_TagString: Eric
@@ -1544,6 +1591,28 @@ MonoBehaviour:
   LastPerson_Graphic: {fileID: 1792901930}
   ThisPerson_Animator: {fileID: 0}
   LastPerson_Animator: {fileID: 0}
+--- !u!95 &718528558
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718528553}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0fad792fcc1fb5e4db30075b4d915a25, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &749111708
 GameObject:
   m_ObjectHideFlags: 0
@@ -1826,6 +1895,7 @@ GameObject:
   - component: {fileID: 988332872}
   - component: {fileID: 988332871}
   - component: {fileID: 988332874}
+  - component: {fileID: 988332875}
   m_Layer: 0
   m_Name: Lewis_0
   m_TagString: Lewis
@@ -1992,6 +2062,28 @@ MonoBehaviour:
   LastPerson_Graphic: {fileID: 1792901930}
   ThisPerson_Animator: {fileID: 0}
   LastPerson_Animator: {fileID: 0}
+--- !u!95 &988332875
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988332870}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0d9a68d29750bbe41b3398e7f3e5f33c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1066548182
 GameObject:
   m_ObjectHideFlags: 0
@@ -2502,7 +2594,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.62, y: 2.15}
+    oldSize: {x: 0.88, y: 2.15}
     newSize: {x: 0.88, y: 2.15}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
