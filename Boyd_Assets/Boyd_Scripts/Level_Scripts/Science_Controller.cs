@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events; 
 
-public class Lab_Controller : MonoBehaviour
+public class Science_Controller : MonoBehaviour
 {
     public UnityEvent L_Controller;
 
@@ -14,9 +14,9 @@ public class Lab_Controller : MonoBehaviour
             }
     }
 
-    public void Go_To_RoboticsLab()
+    public void Go_To_McNeer()
     {
-        Debug.Log("Entering Robotics Lab");
+        Debug.Log("Entering McNeer");
         SceneManager.LoadScene(9);//update
     }
 

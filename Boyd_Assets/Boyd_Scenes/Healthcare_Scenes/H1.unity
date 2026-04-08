@@ -1674,7 +1674,7 @@ GameObject:
   - component: {fileID: 2089666241}
   - component: {fileID: 2089666240}
   m_Layer: 0
-  m_Name: Door2Nursery
+  m_Name: Door2McNeer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1767,7 +1767,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2089666240}
         m_TargetAssemblyTypeName: Hospital_Controller, Assembly-CSharp
-        m_MethodName: Go_To_Nursery
+        m_MethodName: Go_To_McNeer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

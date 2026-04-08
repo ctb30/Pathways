@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events; 
 
-public class Hospital_Controller : MonoBehaviour
+public class Healthcare_Controller : MonoBehaviour
 {
     public UnityEvent H_Controller;
 
@@ -14,9 +14,9 @@ public class Hospital_Controller : MonoBehaviour
             }
     }
 
-    public void Go_To_Nursery()
+    public void Go_To_McNeer()
     {
-        Debug.Log("Entering Nursery");
+        Debug.Log("Entering McNeer");
         SceneManager.LoadScene(7);//update
     }
     public void Go_To_Lobby()
@@ -39,11 +39,11 @@ public class Hospital_Controller : MonoBehaviour
         Debug.Log("Entering MiniGame");
         SceneManager.LoadScene(15);
     }
-    public void Collect_Alarm_Clock()
-    {
-        Debug.Log("Collected Alarm Clock");
-        Destroy(gameObject);
+    //public void Collect_Alarm_Clock()
+    //{
+       // Debug.Log("Collected Alarm Clock");
+       // Destroy(gameObject);
 
-    }
+    //}
 
 }

@@ -1643,7 +1643,7 @@ GameObject:
   - component: {fileID: 2089666241}
   - component: {fileID: 2089666242}
   m_Layer: 0
-  m_Name: Door2RoboticsLab
+  m_Name: Door2McNeer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1781,8 +1781,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2089666242}
-        m_TargetAssemblyTypeName: Lab_Controller, Assembly-CSharp
-        m_MethodName: Go_To_RoboticsLab
+        m_TargetAssemblyTypeName: Science_Controller, Assembly-CSharp
+        m_MethodName: Go_To_McNeer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

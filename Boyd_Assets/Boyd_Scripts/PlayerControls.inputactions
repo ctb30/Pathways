@@ -7,15 +7,6 @@
             "id": "a5fa6f69-2dda-4232-adf2-b24dfc4f9187",
             "actions": [
                 {
-                    "name": "Fire",
-                    "type": "Button",
-                    "id": "d60176db-2050-41ac-a64b-8becfd699ec0",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
                     "name": "Move",
                     "type": "PassThrough",
                     "id": "80a8db2c-f33d-47bc-9117-8d8f72ba49b2",
@@ -68,75 +59,45 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Room_Switcher",
+                    "type": "Button",
+                    "id": "b14050c9-dbc4-4b5f-83e4-18ef2c3f0817",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Switch_To_Boyd",
+                    "type": "Button",
+                    "id": "77424864-6ef8-4db4-85ca-466eb9371564",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Switch_To_Morgan",
+                    "type": "Button",
+                    "id": "74089073-29a3-43d3-baca-2049ad5315b4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Switch_To_StudyAbroad",
+                    "type": "Button",
+                    "id": "61b5f155-31b1-4025-a3a2-bd565bc2ab4b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
-                {
-                    "name": "",
-                    "id": "7e4d70af-3246-41f9-89b7-b59428f49dd1",
-                    "path": "<Keyboard>/f",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Fire",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "2D Vector",
-                    "id": "ba2de6bc-5e4b-4963-bb8a-0429ee9f153a",
-                    "path": "2DVector",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "up",
-                    "id": "58cca834-a430-40a0-9695-c66239a238c3",
-                    "path": "<Keyboard>/w",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "down",
-                    "id": "fda78864-d487-4963-b9de-2125ba386b3a",
-                    "path": "<Keyboard>/s",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "left",
-                    "id": "f5cccbf9-0b2a-47c6-983d-30c313fea4f6",
-                    "path": "<Keyboard>/a",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "right",
-                    "id": "b2471a24-1823-476a-a746-a3eadfb82a7b",
-                    "path": "<Keyboard>/d",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
                 {
                     "name": "2D Vector",
                     "id": "b8a9d47c-56b5-4fc2-bdc6-a60292908e8c",
@@ -354,6 +315,94 @@
                     "processors": "",
                     "groups": "",
                     "action": "Omni_Talk",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "df84428c-40ba-48f2-b771-8357edb940be",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Room_Switcher",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "463a34d2-22b4-451a-9610-47229b19e3c8",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Room_Switcher",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "67c753e9-dbe9-408c-a302-2734844cd8ba",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_Boyd",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ee15bedb-0240-4eaf-afc9-cb3f3ac2c93a",
+                    "path": "<XInputController>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_Boyd",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fdb97518-c09e-4b04-80dd-9adedb11c436",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_Morgan",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "88a99da0-5256-4f54-a6ae-61fe2270b74e",
+                    "path": "<XInputController>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_Morgan",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "981c8ccf-f2d8-45f3-ba8e-10f0f4cfbb34",
+                    "path": "<Keyboard>/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_StudyAbroad",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "145faa63-3860-423e-b142-a61a8c1357d8",
+                    "path": "<XInputController>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch_To_StudyAbroad",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
