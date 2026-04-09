@@ -20,21 +20,6 @@ public class Science_Controller : MonoBehaviour
         SceneManager.LoadScene(9);//update
     }
 
-    public void Go_To_StudyAbroad()
-    {
-        Debug.Log("Entering StudyAbroad");
-        SceneManager.LoadScene(11);
-    }
-    public void Go_To_Lobby()
-    {
-        Debug.Log("Entering Lobby");
-        SceneManager.LoadScene(8);
-    }
-        public void Go_To_MiniGame()
-    {
-        Debug.Log("Entering MiniGame");
-        SceneManager.LoadScene(12);
-    }
 
     public void Caught_Mech_Pup()
     {
