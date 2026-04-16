@@ -1237,7 +1237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77e0f0a4e6ce9694da4e92b6e7876a10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  L4Now: {fileID: 0}
+  L4Now: {fileID: 1228163375778033343, guid: ae1f7aae78d9ae145af92eaa7348147a, type: 3}
 --- !u!4 &942358415
 Transform:
   m_ObjectHideFlags: 0

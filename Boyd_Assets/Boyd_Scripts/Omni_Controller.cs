@@ -67,7 +67,7 @@ public class Omni_Controller : MonoBehaviour
         }
         else if(myCounter ==5)
         {
-            Omni_textbox.text="We offer an Associates of Arts (A.S) Degree with a business concentration SpaceBar to continue...";
+            Omni_textbox.text="We offer an Associates of Arts (A.S) Degree with a business concentration. We also offer certificates in Fine Arts, Logistics and Communications SpaceBar to continue...";
             BusinessPhoto.SetActive(true);
         }
 
